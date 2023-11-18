@@ -84,16 +84,16 @@ class PlayStoreData:
   #### Genres
   def process_genres(self):
     # Probleme, cette colonne contient plusieurs infos, on va donc la split en 2 colonnes avant de la passée en valeurs numériques
-    self.df[["Genres", "Genre Secondaire"]] = self.df["Genres"].str.split(";", expand=True)
-    self.df = self.df.rename(columns={"Genres" : "Genre Principal"})
+    self.df[["Genres", "GenreSecondaire"]] = self.df["Genres"].str.split(";", expand=True)
+    self.df = self.df.rename(columns={"Genres" : "GenrePrincipal"})
 
     ##### Genre Principal
     dict_genre_principal = self.dict_from_cat("GenrePrincipal")
-    self.dict_to_float("Genre Principal", dict_genre_principal)
+    self.dict_to_float("GenrePrincipal", dict_genre_principal)
 
     ##### Genre Secondaire
     dict_genre_secondaire = self.dict_from_cat("GenreSecondaire")
-    self.dict_to_float("Genre Secondaire", dict_genre_secondaire)
+    self.dict_to_float("GenreSecondaire", dict_genre_secondaire)
 
 
   #### Last Updated
