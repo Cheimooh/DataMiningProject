@@ -88,11 +88,11 @@ class PlayStoreData:
     self.df = self.df.rename(columns={"Genres" : "Genre Principal"})
 
     ##### Genre Principal
-    dict_genre_principal = self.dict_from_cat("Genre Principal")
+    dict_genre_principal = self.dict_from_cat("GenrePrincipal")
     self.dict_to_float("Genre Principal", dict_genre_principal)
 
     ##### Genre Secondaire
-    dict_genre_secondaire = self.dict_from_cat("Genre Secondaire")
+    dict_genre_secondaire = self.dict_from_cat("GenreSecondaire")
     self.dict_to_float("Genre Secondaire", dict_genre_secondaire)
 
 
