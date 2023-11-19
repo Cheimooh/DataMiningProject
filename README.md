@@ -3,6 +3,7 @@ Sonia DAKHLI, Nino RAVELLA, Maeva SOMNY
 ## Sujet : Applications du Google PlayStore
 
 ### Architecture
+- **/DM_rapport_projet_DAKHLI_RAVELLA_SOMNY.pdf** : Rapport.
 - **/** : les fichiers source de l'analyse :
   - *pretraitement.ipynb* : Partie III. Pré-traitement du dataset.
   - *clustering.ipynb* : Partie IV.A. Clustering.
