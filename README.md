@@ -7,7 +7,7 @@ Sonia DAKHLI, Nino RAVELLA, Maeva SOMNY
   - *pretraitement.ipynb* : Partie III. Pré-traitement du dataset.
   - *clustering.ipynb* : Partie IV.A. Clustering.
   - *frequent_patterns.ipynb* : Partie IV.B. Frequent Patterns.
-  - *keywords.ipynb": Partie IV.C. Analyse des mots clés dans les titres.
+  - *keywords.ipynb*: Partie IV.C. Analyse des mots clés dans les titres.
 - **/data/** : contient les datasets 
   - *googleplaystore.csv* : dataset utilisé
   - *clean_dataset_googleplaystore* : dataset après pré-traitement
