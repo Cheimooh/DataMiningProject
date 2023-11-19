@@ -1,0 +1,217 @@
+Résultat 1 pour Installs>=1000000, Ratings>=0:
+     support                                                       itemsets  \
+42  0.005618  ((NoSecondaryGenre, 10000000, 4.4), (Action1, 10000000, 4.4))   
+
+    len  
+42    2  
+
+Résultat 2 pour Installs>=1000000, Ratings>=4:
+     support                                                       itemsets  \
+41  0.006557  ((NoSecondaryGenre, 10000000, 4.4), (Action1, 10000000, 4.4))   
+44  0.005621     ((Tools1, 1000000, 4.2), (NoSecondaryGenre, 1000000, 4.2))   
+45  0.005621     ((Tools1, 1000000, 4.3), (NoSecondaryGenre, 1000000, 4.3))   
+40  0.005152    ((NoSecondaryGenre, 1000000, 4.3), (Action1, 1000000, 4.3))   
+42  0.005152  ((NoSecondaryGenre, 10000000, 4.5), (Action1, 10000000, 4.5))   
+
+    len  
+41    2  
+44    2  
+45    2  
+40    2  
+42    2  
+
+Résultat 3 pour Installs>=1000000, Ratings>=4.5:
+      support  \
+82   0.015406   
+109  0.012605   
+92   0.012605   
+114  0.011204   
+125  0.011204   
+
+                                                              itemsets  len  
+82       ((NoSecondaryGenre, 10000000, 4.5), (Action1, 10000000, 4.5))    2  
+109  ((Productivity1, 1000000, 4.5), (NoSecondaryGenre, 1000000, 4.5))    2  
+92      ((Education1, 1000000, 4.6), (NoSecondaryGenre, 1000000, 4.6))    2  
+114         ((Tools1, 1000000, 4.5), (NoSecondaryGenre, 1000000, 4.5))    2  
+125       ((NoSecondaryGenre, 10000000, 4.6), (Tools1, 10000000, 4.6))    2  
+
+Résultat 4 pour Installs>=5000000, Ratings>=0:
+     support  \
+53  0.010638   
+54  0.008359   
+60  0.007599   
+50  0.006839   
+58  0.006839   
+
+                                                              itemsets  len  
+53       ((NoSecondaryGenre, 10000000, 4.4), (Action1, 10000000, 4.4))    2  
+54       ((NoSecondaryGenre, 10000000, 4.5), (Action1, 10000000, 4.5))    2  
+60        ((NoSecondaryGenre, 10000000, 4.4), (Tools1, 10000000, 4.4))    2  
+50         ((NoSecondaryGenre, 5000000, 4.4), (Action1, 5000000, 4.4))    2  
+58  ((NoSecondaryGenre, 10000000, 4.3), (Photography1, 10000000, 4.3))    2  
+
+Résultat 5 pour Installs>=5000000, Ratings>=4:
+     support  \
+63  0.011956   
+64  0.009394   
+80  0.008540   
+60  0.007686   
+76  0.007686   
+
+                                                              itemsets  len  
+63       ((NoSecondaryGenre, 10000000, 4.4), (Action1, 10000000, 4.4))    2  
+64       ((NoSecondaryGenre, 10000000, 4.5), (Action1, 10000000, 4.5))    2  
+80        ((NoSecondaryGenre, 10000000, 4.4), (Tools1, 10000000, 4.4))    2  
+60         ((NoSecondaryGenre, 5000000, 4.4), (Action1, 5000000, 4.4))    2  
+76  ((NoSecondaryGenre, 10000000, 4.3), (Photography1, 10000000, 4.3))    2  
+
+Résultat 6 pour Installs>=5000000, Ratings>=4.5:
+      support  \
+62   0.027160   
+100  0.019753   
+91   0.017284   
+63   0.017284   
+94   0.014815   
+
+                                                               itemsets  len  
+62        ((NoSecondaryGenre, 10000000, 4.5), (Action1, 10000000, 4.5))    2  
+100        ((NoSecondaryGenre, 10000000, 4.6), (Tools1, 10000000, 4.6))    2  
+91   ((NoSecondaryGenre, 10000000, 4.5), (Photography1, 10000000, 4.5))    2  
+63        ((NoSecondaryGenre, 10000000, 4.6), (Action1, 10000000, 4.6))    2  
+94         ((NoSecondaryGenre, 10000000, 4.5), (Tools1, 10000000, 4.5))    2  
+
+Résultat 7 pour Installs>=10000000, Ratings>=0:
+     support  \
+68  0.016166   
+69  0.012702   
+92  0.011547   
+86  0.010393   
+83  0.009238   
+
+                                                              itemsets  len  
+68       ((NoSecondaryGenre, 10000000, 4.4), (Action1, 10000000, 4.4))    2  
+69       ((NoSecondaryGenre, 10000000, 4.5), (Action1, 10000000, 4.5))    2  
+92        ((NoSecondaryGenre, 10000000, 4.4), (Tools1, 10000000, 4.4))    2  
+86  ((NoSecondaryGenre, 10000000, 4.3), (Photography1, 10000000, 4.3))    2  
+83  ((NoSecondaryGenre, 10000000, 4.2), (Photography1, 10000000, 4.2))    2  
+
+Résultat 8 pour Installs>=10000000, Ratings>=4:
+      support  \
+90   0.017789   
+91   0.013977   
+129  0.012706   
+121  0.011436   
+135  0.010165   
+
+                                                               itemsets  len  
+90        ((NoSecondaryGenre, 10000000, 4.4), (Action1, 10000000, 4.4))    2  
+91        ((NoSecondaryGenre, 10000000, 4.5), (Action1, 10000000, 4.5))    2  
+129        ((NoSecondaryGenre, 10000000, 4.4), (Tools1, 10000000, 4.4))    2  
+121  ((NoSecondaryGenre, 10000000, 4.3), (Photography1, 10000000, 4.3))    2  
+135        ((NoSecondaryGenre, 10000000, 4.6), (Tools1, 10000000, 4.6))    2  
+
+Résultat 9 pour Installs>=10000000, Ratings>=4.5:
+      support  \
+78   0.039146   
+126  0.028470   
+79   0.024911   
+109  0.024911   
+84   0.021352   
+
+                                                               itemsets  len  
+78        ((NoSecondaryGenre, 10000000, 4.5), (Action1, 10000000, 4.5))    2  
+126        ((NoSecondaryGenre, 10000000, 4.6), (Tools1, 10000000, 4.6))    2  
+79        ((NoSecondaryGenre, 10000000, 4.6), (Action1, 10000000, 4.6))    2  
+109  ((NoSecondaryGenre, 10000000, 4.5), (Photography1, 10000000, 4.5))    2  
+84        ((NoSecondaryGenre, 10000000, 4.5), (Arcade1, 10000000, 4.5))    2  
+
+Résultat 10 pour Installs>=50000000, Ratings>=0:
+      support  \
+95   0.027523   
+78   0.022936   
+76   0.022936   
+88   0.018349   
+107  0.018349   
+
+                                                               itemsets  len  
+95   ((Photography1, 50000000, 4.4), (NoSecondaryGenre, 50000000, 4.4))    2  
+78      ((NoSecondaryGenre, 100000000, 4.5), (Arcade1, 100000000, 4.5))    2  
+76      ((NoSecondaryGenre, 100000000, 4.3), (Arcade1, 100000000, 4.3))    2  
+88        ((Racing1, 50000000, 4.2), (NoSecondaryGenre, 50000000, 4.2))    2  
+107      ((NoSecondaryGenre, 100000000, 4.5), (Tools1, 100000000, 4.5))    2  
+
+Résultat 11 pour Installs>=50000000, Ratings>=4:
+      support  \
+92   0.028708   
+75   0.023923   
+73   0.023923   
+85   0.019139   
+104  0.019139   
+
+                                                               itemsets  len  
+92   ((Photography1, 50000000, 4.4), (NoSecondaryGenre, 50000000, 4.4))    2  
+75      ((NoSecondaryGenre, 100000000, 4.5), (Arcade1, 100000000, 4.5))    2  
+73      ((NoSecondaryGenre, 100000000, 4.3), (Arcade1, 100000000, 4.3))    2  
+85        ((Racing1, 50000000, 4.2), (NoSecondaryGenre, 50000000, 4.2))    2  
+104      ((NoSecondaryGenre, 100000000, 4.5), (Tools1, 100000000, 4.5))    2  
+
+Résultat 12 pour Installs>=50000000, Ratings>=4.5:
+      support  \
+71   0.067568   
+65   0.054054   
+105  0.054054   
+102  0.040541   
+92   0.040541   
+
+                                                            itemsets  len  
+71   ((NoSecondaryGenre, 100000000, 4.5), (Arcade1, 100000000, 4.5))    2  
+65     ((Action1, 50000000, 4.5), (NoSecondaryGenre, 50000000, 4.5))    2  
+105   ((NoSecondaryGenre, 100000000, 4.5), (Tools1, 100000000, 4.5))    2  
+102  ((Racing1, 100000000, 4.5), (NoSecondaryGenre, 100000000, 4.5))    2  
+92      ((Tools1, 50000000, 4.6), (NoSecondaryGenre, 50000000, 4.6))    2  
+
+Résultat 13 pour Installs>=100000000, Ratings>=0:
+      support  \
+101  0.047170   
+99   0.047170   
+148  0.037736   
+100  0.037736   
+145  0.028302   
+
+                                                            itemsets  len  
+101  ((NoSecondaryGenre, 100000000, 4.5), (Arcade1, 100000000, 4.5))    2  
+99   ((NoSecondaryGenre, 100000000, 4.3), (Arcade1, 100000000, 4.3))    2  
+148   ((NoSecondaryGenre, 100000000, 4.5), (Tools1, 100000000, 4.5))    2  
+100  ((NoSecondaryGenre, 100000000, 4.4), (Arcade1, 100000000, 4.4))    2  
+145  ((Racing1, 100000000, 4.5), (NoSecondaryGenre, 100000000, 4.5))    2  
+
+Résultat 14 pour Installs>=100000000, Ratings>=4:
+      support  \
+93   0.049020   
+91   0.049020   
+137  0.039216   
+92   0.039216   
+124  0.029412   
+
+                                                                 itemsets  len  
+93        ((NoSecondaryGenre, 100000000, 4.5), (Arcade1, 100000000, 4.5))    2  
+91        ((NoSecondaryGenre, 100000000, 4.3), (Arcade1, 100000000, 4.3))    2  
+137        ((NoSecondaryGenre, 100000000, 4.5), (Tools1, 100000000, 4.5))    2  
+92        ((NoSecondaryGenre, 100000000, 4.4), (Arcade1, 100000000, 4.4))    2  
+124  ((Photography1, 100000000, 4.4), (NoSecondaryGenre, 100000000, 4.4))    2  
+
+Résultat 15 pour Installs>=100000000, Ratings>=4.5:
+     support                                                         itemsets  \
+36  0.121951  ((NoSecondaryGenre, 100000000, 4.5), (Arcade1, 100000000, 4.5))   
+48  0.097561   ((NoSecondaryGenre, 100000000, 4.5), (Tools1, 100000000, 4.5))   
+38  0.073171  ((NoSecondaryGenre, 100000000, 4.5), (Casual1, 100000000, 4.5))   
+45  0.073171  ((Racing1, 100000000, 4.5), (NoSecondaryGenre, 100000000, 4.5))   
+34  0.048780  ((NoSecondaryGenre, 100000000, 4.5), (Action1, 100000000, 4.5))   
+
+    len  
+36    2  
+48    2  
+38    2  
+45    2  
+34    2  
+
