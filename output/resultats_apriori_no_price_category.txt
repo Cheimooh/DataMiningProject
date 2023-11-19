@@ -1,0 +1,120 @@
+Résultat 1 pour Installs>=1000000, Reviews>=4.5, Ratings>=0:
+      support                    itemsets
+38   0.930851          (NoSecondaryGenre)
+117  0.234043    (GAME, NoSecondaryGenre)
+29   0.234043                      (GAME)
+24   0.174772                    (FAMILY)
+105  0.118541  (NoSecondaryGenre, FAMILY)
+
+Résultat 2 pour Installs>=1000000, Reviews>=4.5, Ratings>=4:
+      support                    itemsets
+38   0.930851          (NoSecondaryGenre)
+117  0.234043    (GAME, NoSecondaryGenre)
+29   0.234043                      (GAME)
+24   0.174772                    (FAMILY)
+105  0.118541  (NoSecondaryGenre, FAMILY)
+
+Résultat 3 pour Installs>=1000000, Reviews>=4.5, Ratings>=4.5:
+      support                    itemsets
+38   0.930851          (NoSecondaryGenre)
+117  0.234043    (GAME, NoSecondaryGenre)
+29   0.234043                      (GAME)
+24   0.174772                    (FAMILY)
+105  0.118541  (NoSecondaryGenre, FAMILY)
+
+Résultat 4 pour Installs>=5000000, Reviews>=4.5, Ratings>=0:
+      support                    itemsets
+33   0.936490          (NoSecondaryGenre)
+24   0.265589                      (GAME)
+107  0.265589    (GAME, NoSecondaryGenre)
+19   0.160508                    (FAMILY)
+94   0.108545  (NoSecondaryGenre, FAMILY)
+
+Résultat 5 pour Installs>=5000000, Reviews>=4.5, Ratings>=4:
+      support                    itemsets
+33   0.936490          (NoSecondaryGenre)
+24   0.265589                      (GAME)
+107  0.265589    (GAME, NoSecondaryGenre)
+19   0.160508                    (FAMILY)
+94   0.108545  (NoSecondaryGenre, FAMILY)
+
+Résultat 6 pour Installs>=5000000, Reviews>=4.5, Ratings>=4.5:
+      support                    itemsets
+33   0.936490          (NoSecondaryGenre)
+24   0.265589                      (GAME)
+107  0.265589    (GAME, NoSecondaryGenre)
+19   0.160508                    (FAMILY)
+94   0.108545  (NoSecondaryGenre, FAMILY)
+
+Résultat 7 pour Installs>=10000000, Reviews>=4.5, Ratings>=0:
+     support                  itemsets
+17  0.967890        (NoSecondaryGenre)
+65  0.344037  (GAME, NoSecondaryGenre)
+14  0.344037                    (GAME)
+13  0.123853                  (FAMILY)
+37  0.110092                  (Tools1)
+
+Résultat 8 pour Installs>=10000000, Reviews>=4.5, Ratings>=4:
+     support                  itemsets
+17  0.967890        (NoSecondaryGenre)
+65  0.344037  (GAME, NoSecondaryGenre)
+14  0.344037                    (GAME)
+13  0.123853                  (FAMILY)
+37  0.110092                  (Tools1)
+
+Résultat 9 pour Installs>=10000000, Reviews>=4.5, Ratings>=4.5:
+     support                  itemsets
+17  0.967890        (NoSecondaryGenre)
+65  0.344037  (GAME, NoSecondaryGenre)
+14  0.344037                    (GAME)
+13  0.123853                  (FAMILY)
+37  0.110092                  (Tools1)
+
+Résultat 10 pour Installs>=50000000, Reviews>=4.5, Ratings>=0:
+     support                     itemsets
+20  0.981132           (NoSecondaryGenre)
+13  0.377358                       (GAME)
+65  0.377358     (GAME, NoSecondaryGenre)
+46  0.160377              (Arcade1, GAME)
+47  0.160377  (Arcade1, NoSecondaryGenre)
+
+Résultat 11 pour Installs>=50000000, Reviews>=4.5, Ratings>=4:
+     support                     itemsets
+20  0.981132           (NoSecondaryGenre)
+13  0.377358                       (GAME)
+65  0.377358     (GAME, NoSecondaryGenre)
+46  0.160377              (Arcade1, GAME)
+47  0.160377  (Arcade1, NoSecondaryGenre)
+
+Résultat 12 pour Installs>=50000000, Reviews>=4.5, Ratings>=4.5:
+     support                     itemsets
+20  0.981132           (NoSecondaryGenre)
+13  0.377358                       (GAME)
+65  0.377358     (GAME, NoSecondaryGenre)
+46  0.160377              (Arcade1, GAME)
+47  0.160377  (Arcade1, NoSecondaryGenre)
+
+Résultat 13 pour Installs>=100000000, Reviews>=4.5, Ratings>=0:
+    support                     itemsets
+10      1.0           (NoSecondaryGenre)
+21      0.2  (NoSecondaryGenre, Casual1)
+2       0.2              (COMMUNICATION)
+3       0.2                    (Casual1)
+4       0.2             (Communication1)
+
+Résultat 14 pour Installs>=100000000, Reviews>=4.5, Ratings>=4:
+    support                     itemsets
+10      1.0           (NoSecondaryGenre)
+21      0.2  (NoSecondaryGenre, Casual1)
+2       0.2              (COMMUNICATION)
+3       0.2                    (Casual1)
+4       0.2             (Communication1)
+
+Résultat 15 pour Installs>=100000000, Reviews>=4.5, Ratings>=4.5:
+    support                     itemsets
+10      1.0           (NoSecondaryGenre)
+21      0.2  (NoSecondaryGenre, Casual1)
+2       0.2              (COMMUNICATION)
+3       0.2                    (Casual1)
+4       0.2             (Communication1)
+

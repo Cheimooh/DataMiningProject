@@ -1,0 +1,120 @@
+Résultat 1 pour Installs>=1000000, Ratings>=0:
+     support                     itemsets  len
+60  0.087386              (Action1, GAME)    2
+96  0.081307              (Tools1, TOOLS)    2
+91  0.055471  (PHOTOGRAPHY, Photography1)    2
+62  0.052432              (Arcade1, GAME)    2
+95  0.041033            (SPORTS, Sports1)    2
+
+Résultat 2 pour Installs>=1000000, Ratings>=4:
+     support                     itemsets  len
+60  0.087386              (Action1, GAME)    2
+96  0.081307              (Tools1, TOOLS)    2
+91  0.055471  (PHOTOGRAPHY, Photography1)    2
+62  0.052432              (Arcade1, GAME)    2
+95  0.041033            (SPORTS, Sports1)    2
+
+Résultat 3 pour Installs>=1000000, Ratings>=4.5:
+     support                     itemsets  len
+60  0.087386              (Action1, GAME)    2
+96  0.081307              (Tools1, TOOLS)    2
+91  0.055471  (PHOTOGRAPHY, Photography1)    2
+62  0.052432              (Arcade1, GAME)    2
+95  0.041033            (SPORTS, Sports1)    2
+
+Résultat 4 pour Installs>=5000000, Ratings>=0:
+     support                     itemsets  len
+56  0.098152              (Action1, GAME)    2
+89  0.087760              (Tools1, TOOLS)    2
+58  0.066975              (Arcade1, GAME)    2
+84  0.061201  (PHOTOGRAPHY, Photography1)    2
+86  0.039261        (SHOPPING, Shopping1)    2
+
+Résultat 5 pour Installs>=5000000, Ratings>=4:
+     support                     itemsets  len
+56  0.098152              (Action1, GAME)    2
+89  0.087760              (Tools1, TOOLS)    2
+58  0.066975              (Arcade1, GAME)    2
+84  0.061201  (PHOTOGRAPHY, Photography1)    2
+86  0.039261        (SHOPPING, Shopping1)    2
+
+Résultat 6 pour Installs>=5000000, Ratings>=4.5:
+     support                     itemsets  len
+56  0.098152              (Action1, GAME)    2
+89  0.087760              (Tools1, TOOLS)    2
+58  0.066975              (Arcade1, GAME)    2
+84  0.061201  (PHOTOGRAPHY, Photography1)    2
+86  0.039261        (SHOPPING, Shopping1)    2
+
+Résultat 7 pour Installs>=10000000, Ratings>=0:
+     support                     itemsets  len
+37  0.110092              (Action1, GAME)    2
+59  0.110092              (Tools1, TOOLS)    2
+38  0.100917              (Arcade1, GAME)    2
+51  0.068807              (GAME, Racing1)    2
+54  0.059633  (PHOTOGRAPHY, Photography1)    2
+
+Résultat 8 pour Installs>=10000000, Ratings>=4:
+     support                     itemsets  len
+37  0.110092              (Action1, GAME)    2
+59  0.110092              (Tools1, TOOLS)    2
+38  0.100917              (Arcade1, GAME)    2
+51  0.068807              (GAME, Racing1)    2
+54  0.059633  (PHOTOGRAPHY, Photography1)    2
+
+Résultat 9 pour Installs>=10000000, Ratings>=4.5:
+     support                     itemsets  len
+37  0.110092              (Action1, GAME)    2
+59  0.110092              (Tools1, TOOLS)    2
+38  0.100917              (Arcade1, GAME)    2
+51  0.068807              (GAME, Racing1)    2
+54  0.059633  (PHOTOGRAPHY, Photography1)    2
+
+Résultat 10 pour Installs>=50000000, Ratings>=0:
+     support                         itemsets  len
+40  0.160377                  (Arcade1, GAME)    2
+38  0.113208                  (Action1, GAME)    2
+61  0.094340                  (Tools1, TOOLS)    2
+42  0.056604  (Communication1, COMMUNICATION)    2
+56  0.056604      (PHOTOGRAPHY, Photography1)    2
+
+Résultat 11 pour Installs>=50000000, Ratings>=4:
+     support                         itemsets  len
+40  0.160377                  (Arcade1, GAME)    2
+38  0.113208                  (Action1, GAME)    2
+61  0.094340                  (Tools1, TOOLS)    2
+42  0.056604  (Communication1, COMMUNICATION)    2
+56  0.056604      (PHOTOGRAPHY, Photography1)    2
+
+Résultat 12 pour Installs>=50000000, Ratings>=4.5:
+     support                         itemsets  len
+40  0.160377                  (Arcade1, GAME)    2
+38  0.113208                  (Action1, GAME)    2
+61  0.094340                  (Tools1, TOOLS)    2
+42  0.056604  (Communication1, COMMUNICATION)    2
+56  0.056604      (PHOTOGRAPHY, Photography1)    2
+
+Résultat 13 pour Installs>=100000000, Ratings>=0:
+    support                                 itemsets  len
+16      0.2          (Communication1, COMMUNICATION)    2
+14      0.1                          (Action1, GAME)    2
+15      0.1                          (Arcade1, GAME)    2
+17      0.1  (Health & Fitness1, HEALTH_AND_FITNESS)    2
+18      0.1  (NEWS_AND_MAGAZINES, News & Magazines1)    2
+
+Résultat 14 pour Installs>=100000000, Ratings>=4:
+    support                                 itemsets  len
+16      0.2          (Communication1, COMMUNICATION)    2
+14      0.1                          (Action1, GAME)    2
+15      0.1                          (Arcade1, GAME)    2
+17      0.1  (Health & Fitness1, HEALTH_AND_FITNESS)    2
+18      0.1  (NEWS_AND_MAGAZINES, News & Magazines1)    2
+
+Résultat 15 pour Installs>=100000000, Ratings>=4.5:
+    support                                 itemsets  len
+16      0.2          (Communication1, COMMUNICATION)    2
+14      0.1                          (Action1, GAME)    2
+15      0.1                          (Arcade1, GAME)    2
+17      0.1  (Health & Fitness1, HEALTH_AND_FITNESS)    2
+18      0.1  (NEWS_AND_MAGAZINES, News & Magazines1)    2
+

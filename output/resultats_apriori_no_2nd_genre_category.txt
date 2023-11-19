@@ -1,0 +1,120 @@
+Résultat 1 pour Installs>=1000000, Reviews>=4.5, Ratings>=0:
+     support         itemsets
+25  0.234043           (GAME)
+20  0.174772         (FAMILY)
+0   0.091185        (Action1)
+60  0.087386  (Action1, GAME)
+51  0.081307          (TOOLS)
+
+Résultat 2 pour Installs>=1000000, Reviews>=4.5, Ratings>=4:
+     support         itemsets
+25  0.234043           (GAME)
+20  0.174772         (FAMILY)
+0   0.091185        (Action1)
+60  0.087386  (Action1, GAME)
+51  0.081307          (TOOLS)
+
+Résultat 3 pour Installs>=1000000, Reviews>=4.5, Ratings>=4.5:
+     support         itemsets
+25  0.234043           (GAME)
+20  0.174772         (FAMILY)
+0   0.091185        (Action1)
+60  0.087386  (Action1, GAME)
+51  0.081307          (TOOLS)
+
+Résultat 4 pour Installs>=5000000, Reviews>=4.5, Ratings>=0:
+     support         itemsets
+22  0.265589           (GAME)
+17  0.160508         (FAMILY)
+0   0.101617        (Action1)
+56  0.098152  (Action1, GAME)
+89  0.087760  (Tools1, TOOLS)
+
+Résultat 5 pour Installs>=5000000, Reviews>=4.5, Ratings>=4:
+     support         itemsets
+22  0.265589           (GAME)
+17  0.160508         (FAMILY)
+0   0.101617        (Action1)
+56  0.098152  (Action1, GAME)
+89  0.087760  (Tools1, TOOLS)
+
+Résultat 6 pour Installs>=5000000, Reviews>=4.5, Ratings>=4.5:
+     support         itemsets
+22  0.265589           (GAME)
+17  0.160508         (FAMILY)
+0   0.101617        (Action1)
+56  0.098152  (Action1, GAME)
+89  0.087760  (Tools1, TOOLS)
+
+Résultat 7 pour Installs>=10000000, Reviews>=4.5, Ratings>=0:
+     support         itemsets
+13  0.344037           (GAME)
+12  0.123853         (FAMILY)
+0   0.110092        (Action1)
+59  0.110092  (Tools1, TOOLS)
+33  0.110092          (TOOLS)
+
+Résultat 8 pour Installs>=10000000, Reviews>=4.5, Ratings>=4:
+     support         itemsets
+13  0.344037           (GAME)
+12  0.123853         (FAMILY)
+0   0.110092        (Action1)
+59  0.110092  (Tools1, TOOLS)
+33  0.110092          (TOOLS)
+
+Résultat 9 pour Installs>=10000000, Reviews>=4.5, Ratings>=4.5:
+     support         itemsets
+13  0.344037           (GAME)
+12  0.123853         (FAMILY)
+0   0.110092        (Action1)
+59  0.110092  (Tools1, TOOLS)
+33  0.110092          (TOOLS)
+
+Résultat 10 pour Installs>=50000000, Reviews>=4.5, Ratings>=0:
+     support         itemsets
+11  0.377358           (GAME)
+2   0.160377        (Arcade1)
+40  0.160377  (Arcade1, GAME)
+0   0.113208        (Action1)
+38  0.113208  (Action1, GAME)
+
+Résultat 11 pour Installs>=50000000, Reviews>=4.5, Ratings>=4:
+     support         itemsets
+11  0.377358           (GAME)
+2   0.160377        (Arcade1)
+40  0.160377  (Arcade1, GAME)
+0   0.113208        (Action1)
+38  0.113208  (Action1, GAME)
+
+Résultat 12 pour Installs>=50000000, Reviews>=4.5, Ratings>=4.5:
+     support         itemsets
+11  0.377358           (GAME)
+2   0.160377        (Arcade1)
+40  0.160377  (Arcade1, GAME)
+0   0.113208        (Action1)
+38  0.113208  (Action1, GAME)
+
+Résultat 13 pour Installs>=100000000, Reviews>=4.5, Ratings>=0:
+    support                         itemsets
+2       0.2                  (COMMUNICATION)
+3       0.2                        (Casual1)
+4       0.2                 (Communication1)
+5       0.2                           (GAME)
+16      0.2  (Communication1, COMMUNICATION)
+
+Résultat 14 pour Installs>=100000000, Reviews>=4.5, Ratings>=4:
+    support                         itemsets
+2       0.2                  (COMMUNICATION)
+3       0.2                        (Casual1)
+4       0.2                 (Communication1)
+5       0.2                           (GAME)
+16      0.2  (Communication1, COMMUNICATION)
+
+Résultat 15 pour Installs>=100000000, Reviews>=4.5, Ratings>=4.5:
+    support                         itemsets
+2       0.2                  (COMMUNICATION)
+3       0.2                        (Casual1)
+4       0.2                 (Communication1)
+5       0.2                           (GAME)
+16      0.2  (Communication1, COMMUNICATION)
+

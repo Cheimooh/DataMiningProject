@@ -1,0 +1,1440 @@
+Résultat 1 pour Installs>=1000000, Reviews>=0, Ratings>=0, GenreSec=True:
+      support                   itemsets
+45   0.999240                    (Price)
+38   0.930851         (NoSecondaryGenre)
+178  0.930091  (NoSecondaryGenre, Price)
+29   0.234043                     (GAME)
+147  0.234043   (GAME, NoSecondaryGenre)
+
+Résultat 2 pour Installs>=1000000, Reviews>=0, Ratings>=0, GenreSec=False:
+      support         itemsets
+39   0.999240          (Price)
+25   0.234043           (GAME)
+108  0.233283    (GAME, Price)
+20   0.174772         (FAMILY)
+97   0.174772  (FAMILY, Price)
+
+Résultat 3 pour Installs>=1000000, Reviews>=0, Ratings>=100, GenreSec=True:
+      support                   itemsets
+45   0.999240                    (Price)
+38   0.930851         (NoSecondaryGenre)
+178  0.930091  (NoSecondaryGenre, Price)
+29   0.234043                     (GAME)
+147  0.234043   (GAME, NoSecondaryGenre)
+
+Résultat 4 pour Installs>=1000000, Reviews>=0, Ratings>=100, GenreSec=False:
+      support         itemsets
+39   0.999240          (Price)
+25   0.234043           (GAME)
+108  0.233283    (GAME, Price)
+20   0.174772         (FAMILY)
+97   0.174772  (FAMILY, Price)
+
+Résultat 5 pour Installs>=1000000, Reviews>=0, Ratings>=500, GenreSec=True:
+      support                   itemsets
+45   0.999240                    (Price)
+38   0.930851         (NoSecondaryGenre)
+178  0.930091  (NoSecondaryGenre, Price)
+29   0.234043                     (GAME)
+147  0.234043   (GAME, NoSecondaryGenre)
+
+Résultat 6 pour Installs>=1000000, Reviews>=0, Ratings>=500, GenreSec=False:
+      support         itemsets
+39   0.999240          (Price)
+25   0.234043           (GAME)
+108  0.233283    (GAME, Price)
+20   0.174772         (FAMILY)
+97   0.174772  (FAMILY, Price)
+
+Résultat 7 pour Installs>=1000000, Reviews>=0, Ratings>=1000, GenreSec=True:
+      support                   itemsets
+45   0.999240                    (Price)
+38   0.930851         (NoSecondaryGenre)
+178  0.930091  (NoSecondaryGenre, Price)
+29   0.234043                     (GAME)
+147  0.234043   (GAME, NoSecondaryGenre)
+
+Résultat 8 pour Installs>=1000000, Reviews>=0, Ratings>=1000, GenreSec=False:
+      support         itemsets
+39   0.999240          (Price)
+25   0.234043           (GAME)
+108  0.233283    (GAME, Price)
+20   0.174772         (FAMILY)
+97   0.174772  (FAMILY, Price)
+
+Résultat 9 pour Installs>=1000000, Reviews>=0, Ratings>=1500, GenreSec=True:
+      support                   itemsets
+45   0.999240                    (Price)
+38   0.930851         (NoSecondaryGenre)
+178  0.930091  (NoSecondaryGenre, Price)
+29   0.234043                     (GAME)
+147  0.234043   (GAME, NoSecondaryGenre)
+
+Résultat 10 pour Installs>=1000000, Reviews>=0, Ratings>=1500, GenreSec=False:
+      support         itemsets
+39   0.999240          (Price)
+25   0.234043           (GAME)
+108  0.233283    (GAME, Price)
+20   0.174772         (FAMILY)
+97   0.174772  (FAMILY, Price)
+
+Résultat 11 pour Installs>=1000000, Reviews>=0, Ratings>=30000, GenreSec=True:
+      support                   itemsets
+45   0.999240                    (Price)
+38   0.930851         (NoSecondaryGenre)
+178  0.930091  (NoSecondaryGenre, Price)
+29   0.234043                     (GAME)
+147  0.234043   (GAME, NoSecondaryGenre)
+
+Résultat 12 pour Installs>=1000000, Reviews>=0, Ratings>=30000, GenreSec=False:
+      support         itemsets
+39   0.999240          (Price)
+25   0.234043           (GAME)
+108  0.233283    (GAME, Price)
+20   0.174772         (FAMILY)
+97   0.174772  (FAMILY, Price)
+
+Résultat 13 pour Installs>=1000000, Reviews>=4, Ratings>=0, GenreSec=True:
+      support                     itemsets
+49   1.000000                    (Reviews)
+258  0.999240             (Reviews, Price)
+45   0.999240                      (Price)
+221  0.930851  (Reviews, NoSecondaryGenre)
+38   0.930851           (NoSecondaryGenre)
+
+Résultat 14 pour Installs>=1000000, Reviews>=4, Ratings>=0, GenreSec=False:
+      support          itemsets
+43   1.000000         (Reviews)
+176  0.999240  (Reviews, Price)
+39   0.999240           (Price)
+25   0.234043            (GAME)
+137  0.234043   (Reviews, GAME)
+
+Résultat 15 pour Installs>=1000000, Reviews>=4, Ratings>=100, GenreSec=True:
+      support                     itemsets
+49   1.000000                    (Reviews)
+258  0.999240             (Reviews, Price)
+45   0.999240                      (Price)
+221  0.930851  (Reviews, NoSecondaryGenre)
+38   0.930851           (NoSecondaryGenre)
+
+Résultat 16 pour Installs>=1000000, Reviews>=4, Ratings>=100, GenreSec=False:
+      support          itemsets
+43   1.000000         (Reviews)
+176  0.999240  (Reviews, Price)
+39   0.999240           (Price)
+25   0.234043            (GAME)
+137  0.234043   (Reviews, GAME)
+
+Résultat 17 pour Installs>=1000000, Reviews>=4, Ratings>=500, GenreSec=True:
+      support                     itemsets
+49   1.000000                    (Reviews)
+258  0.999240             (Reviews, Price)
+45   0.999240                      (Price)
+221  0.930851  (Reviews, NoSecondaryGenre)
+38   0.930851           (NoSecondaryGenre)
+
+Résultat 18 pour Installs>=1000000, Reviews>=4, Ratings>=500, GenreSec=False:
+      support          itemsets
+43   1.000000         (Reviews)
+176  0.999240  (Reviews, Price)
+39   0.999240           (Price)
+25   0.234043            (GAME)
+137  0.234043   (Reviews, GAME)
+
+Résultat 19 pour Installs>=1000000, Reviews>=4, Ratings>=1000, GenreSec=True:
+      support                     itemsets
+49   1.000000                    (Reviews)
+258  0.999240             (Reviews, Price)
+45   0.999240                      (Price)
+221  0.930851  (Reviews, NoSecondaryGenre)
+38   0.930851           (NoSecondaryGenre)
+
+Résultat 20 pour Installs>=1000000, Reviews>=4, Ratings>=1000, GenreSec=False:
+      support          itemsets
+43   1.000000         (Reviews)
+176  0.999240  (Reviews, Price)
+39   0.999240           (Price)
+25   0.234043            (GAME)
+137  0.234043   (Reviews, GAME)
+
+Résultat 21 pour Installs>=1000000, Reviews>=4, Ratings>=1500, GenreSec=True:
+      support                     itemsets
+49   1.000000                    (Reviews)
+258  0.999240             (Reviews, Price)
+45   0.999240                      (Price)
+221  0.930851  (Reviews, NoSecondaryGenre)
+38   0.930851           (NoSecondaryGenre)
+
+Résultat 22 pour Installs>=1000000, Reviews>=4, Ratings>=1500, GenreSec=False:
+      support          itemsets
+43   1.000000         (Reviews)
+176  0.999240  (Reviews, Price)
+39   0.999240           (Price)
+25   0.234043            (GAME)
+137  0.234043   (Reviews, GAME)
+
+Résultat 23 pour Installs>=1000000, Reviews>=4, Ratings>=30000, GenreSec=True:
+      support                     itemsets
+49   1.000000                    (Reviews)
+258  0.999240             (Reviews, Price)
+45   0.999240                      (Price)
+221  0.930851  (Reviews, NoSecondaryGenre)
+38   0.930851           (NoSecondaryGenre)
+
+Résultat 24 pour Installs>=1000000, Reviews>=4, Ratings>=30000, GenreSec=False:
+      support          itemsets
+43   1.000000         (Reviews)
+176  0.999240  (Reviews, Price)
+39   0.999240           (Price)
+25   0.234043            (GAME)
+137  0.234043   (Reviews, GAME)
+
+Résultat 25 pour Installs>=1000000, Reviews>=4.5, Ratings>=0, GenreSec=True:
+      support                     itemsets
+49   1.000000                    (Reviews)
+258  0.999240             (Reviews, Price)
+45   0.999240                      (Price)
+221  0.930851  (Reviews, NoSecondaryGenre)
+38   0.930851           (NoSecondaryGenre)
+
+Résultat 26 pour Installs>=1000000, Reviews>=4.5, Ratings>=0, GenreSec=False:
+      support          itemsets
+43   1.000000         (Reviews)
+176  0.999240  (Reviews, Price)
+39   0.999240           (Price)
+25   0.234043            (GAME)
+137  0.234043   (Reviews, GAME)
+
+Résultat 27 pour Installs>=1000000, Reviews>=4.5, Ratings>=100, GenreSec=True:
+      support                     itemsets
+49   1.000000                    (Reviews)
+258  0.999240             (Reviews, Price)
+45   0.999240                      (Price)
+221  0.930851  (Reviews, NoSecondaryGenre)
+38   0.930851           (NoSecondaryGenre)
+
+Résultat 28 pour Installs>=1000000, Reviews>=4.5, Ratings>=100, GenreSec=False:
+      support          itemsets
+43   1.000000         (Reviews)
+176  0.999240  (Reviews, Price)
+39   0.999240           (Price)
+25   0.234043            (GAME)
+137  0.234043   (Reviews, GAME)
+
+Résultat 29 pour Installs>=1000000, Reviews>=4.5, Ratings>=500, GenreSec=True:
+      support                     itemsets
+49   1.000000                    (Reviews)
+258  0.999240             (Reviews, Price)
+45   0.999240                      (Price)
+221  0.930851  (Reviews, NoSecondaryGenre)
+38   0.930851           (NoSecondaryGenre)
+
+Résultat 30 pour Installs>=1000000, Reviews>=4.5, Ratings>=500, GenreSec=False:
+      support          itemsets
+43   1.000000         (Reviews)
+176  0.999240  (Reviews, Price)
+39   0.999240           (Price)
+25   0.234043            (GAME)
+137  0.234043   (Reviews, GAME)
+
+Résultat 31 pour Installs>=1000000, Reviews>=4.5, Ratings>=1000, GenreSec=True:
+      support                     itemsets
+49   1.000000                    (Reviews)
+258  0.999240             (Reviews, Price)
+45   0.999240                      (Price)
+221  0.930851  (Reviews, NoSecondaryGenre)
+38   0.930851           (NoSecondaryGenre)
+
+Résultat 32 pour Installs>=1000000, Reviews>=4.5, Ratings>=1000, GenreSec=False:
+      support          itemsets
+43   1.000000         (Reviews)
+176  0.999240  (Reviews, Price)
+39   0.999240           (Price)
+25   0.234043            (GAME)
+137  0.234043   (Reviews, GAME)
+
+Résultat 33 pour Installs>=1000000, Reviews>=4.5, Ratings>=1500, GenreSec=True:
+      support                     itemsets
+49   1.000000                    (Reviews)
+258  0.999240             (Reviews, Price)
+45   0.999240                      (Price)
+221  0.930851  (Reviews, NoSecondaryGenre)
+38   0.930851           (NoSecondaryGenre)
+
+Résultat 34 pour Installs>=1000000, Reviews>=4.5, Ratings>=1500, GenreSec=False:
+      support          itemsets
+43   1.000000         (Reviews)
+176  0.999240  (Reviews, Price)
+39   0.999240           (Price)
+25   0.234043            (GAME)
+137  0.234043   (Reviews, GAME)
+
+Résultat 35 pour Installs>=1000000, Reviews>=4.5, Ratings>=30000, GenreSec=True:
+      support                     itemsets
+49   1.000000                    (Reviews)
+258  0.999240             (Reviews, Price)
+45   0.999240                      (Price)
+221  0.930851  (Reviews, NoSecondaryGenre)
+38   0.930851           (NoSecondaryGenre)
+
+Résultat 36 pour Installs>=1000000, Reviews>=4.5, Ratings>=30000, GenreSec=False:
+      support          itemsets
+43   1.000000         (Reviews)
+176  0.999240  (Reviews, Price)
+39   0.999240           (Price)
+25   0.234043            (GAME)
+137  0.234043   (Reviews, GAME)
+
+Résultat 37 pour Installs>=5000000, Reviews>=0, Ratings>=0, GenreSec=True:
+      support                   itemsets
+40   0.998845                    (Price)
+33   0.936490         (NoSecondaryGenre)
+161  0.935335  (NoSecondaryGenre, Price)
+132  0.265589   (GAME, NoSecondaryGenre)
+24   0.265589                     (GAME)
+
+Résultat 38 pour Installs>=5000000, Reviews>=0, Ratings>=0, GenreSec=False:
+      support         itemsets
+36   0.998845          (Price)
+22   0.265589           (GAME)
+100  0.264434    (GAME, Price)
+17   0.160508         (FAMILY)
+88   0.160508  (FAMILY, Price)
+
+Résultat 39 pour Installs>=5000000, Reviews>=0, Ratings>=100, GenreSec=True:
+      support                   itemsets
+40   0.998845                    (Price)
+33   0.936490         (NoSecondaryGenre)
+161  0.935335  (NoSecondaryGenre, Price)
+132  0.265589   (GAME, NoSecondaryGenre)
+24   0.265589                     (GAME)
+
+Résultat 40 pour Installs>=5000000, Reviews>=0, Ratings>=100, GenreSec=False:
+      support         itemsets
+36   0.998845          (Price)
+22   0.265589           (GAME)
+100  0.264434    (GAME, Price)
+17   0.160508         (FAMILY)
+88   0.160508  (FAMILY, Price)
+
+Résultat 41 pour Installs>=5000000, Reviews>=0, Ratings>=500, GenreSec=True:
+      support                   itemsets
+40   0.998845                    (Price)
+33   0.936490         (NoSecondaryGenre)
+161  0.935335  (NoSecondaryGenre, Price)
+132  0.265589   (GAME, NoSecondaryGenre)
+24   0.265589                     (GAME)
+
+Résultat 42 pour Installs>=5000000, Reviews>=0, Ratings>=500, GenreSec=False:
+      support         itemsets
+36   0.998845          (Price)
+22   0.265589           (GAME)
+100  0.264434    (GAME, Price)
+17   0.160508         (FAMILY)
+88   0.160508  (FAMILY, Price)
+
+Résultat 43 pour Installs>=5000000, Reviews>=0, Ratings>=1000, GenreSec=True:
+      support                   itemsets
+40   0.998845                    (Price)
+33   0.936490         (NoSecondaryGenre)
+161  0.935335  (NoSecondaryGenre, Price)
+132  0.265589   (GAME, NoSecondaryGenre)
+24   0.265589                     (GAME)
+
+Résultat 44 pour Installs>=5000000, Reviews>=0, Ratings>=1000, GenreSec=False:
+      support         itemsets
+36   0.998845          (Price)
+22   0.265589           (GAME)
+100  0.264434    (GAME, Price)
+17   0.160508         (FAMILY)
+88   0.160508  (FAMILY, Price)
+
+Résultat 45 pour Installs>=5000000, Reviews>=0, Ratings>=1500, GenreSec=True:
+      support                   itemsets
+40   0.998845                    (Price)
+33   0.936490         (NoSecondaryGenre)
+161  0.935335  (NoSecondaryGenre, Price)
+132  0.265589   (GAME, NoSecondaryGenre)
+24   0.265589                     (GAME)
+
+Résultat 46 pour Installs>=5000000, Reviews>=0, Ratings>=1500, GenreSec=False:
+      support         itemsets
+36   0.998845          (Price)
+22   0.265589           (GAME)
+100  0.264434    (GAME, Price)
+17   0.160508         (FAMILY)
+88   0.160508  (FAMILY, Price)
+
+Résultat 47 pour Installs>=5000000, Reviews>=0, Ratings>=30000, GenreSec=True:
+      support                   itemsets
+40   0.998845                    (Price)
+33   0.936490         (NoSecondaryGenre)
+161  0.935335  (NoSecondaryGenre, Price)
+132  0.265589   (GAME, NoSecondaryGenre)
+24   0.265589                     (GAME)
+
+Résultat 48 pour Installs>=5000000, Reviews>=0, Ratings>=30000, GenreSec=False:
+      support         itemsets
+36   0.998845          (Price)
+22   0.265589           (GAME)
+100  0.264434    (GAME, Price)
+17   0.160508         (FAMILY)
+88   0.160508  (FAMILY, Price)
+
+Résultat 49 pour Installs>=5000000, Reviews>=4, Ratings>=0, GenreSec=True:
+      support                     itemsets
+44   1.000000                    (Reviews)
+235  0.998845             (Reviews, Price)
+40   0.998845                      (Price)
+33   0.936490           (NoSecondaryGenre)
+199  0.936490  (Reviews, NoSecondaryGenre)
+
+Résultat 50 pour Installs>=5000000, Reviews>=4, Ratings>=0, GenreSec=False:
+      support          itemsets
+40   1.000000         (Reviews)
+163  0.998845  (Reviews, Price)
+36   0.998845           (Price)
+126  0.265589   (Reviews, GAME)
+22   0.265589            (GAME)
+
+Résultat 51 pour Installs>=5000000, Reviews>=4, Ratings>=100, GenreSec=True:
+      support                     itemsets
+44   1.000000                    (Reviews)
+235  0.998845             (Reviews, Price)
+40   0.998845                      (Price)
+33   0.936490           (NoSecondaryGenre)
+199  0.936490  (Reviews, NoSecondaryGenre)
+
+Résultat 52 pour Installs>=5000000, Reviews>=4, Ratings>=100, GenreSec=False:
+      support          itemsets
+40   1.000000         (Reviews)
+163  0.998845  (Reviews, Price)
+36   0.998845           (Price)
+126  0.265589   (Reviews, GAME)
+22   0.265589            (GAME)
+
+Résultat 53 pour Installs>=5000000, Reviews>=4, Ratings>=500, GenreSec=True:
+      support                     itemsets
+44   1.000000                    (Reviews)
+235  0.998845             (Reviews, Price)
+40   0.998845                      (Price)
+33   0.936490           (NoSecondaryGenre)
+199  0.936490  (Reviews, NoSecondaryGenre)
+
+Résultat 54 pour Installs>=5000000, Reviews>=4, Ratings>=500, GenreSec=False:
+      support          itemsets
+40   1.000000         (Reviews)
+163  0.998845  (Reviews, Price)
+36   0.998845           (Price)
+126  0.265589   (Reviews, GAME)
+22   0.265589            (GAME)
+
+Résultat 55 pour Installs>=5000000, Reviews>=4, Ratings>=1000, GenreSec=True:
+      support                     itemsets
+44   1.000000                    (Reviews)
+235  0.998845             (Reviews, Price)
+40   0.998845                      (Price)
+33   0.936490           (NoSecondaryGenre)
+199  0.936490  (Reviews, NoSecondaryGenre)
+
+Résultat 56 pour Installs>=5000000, Reviews>=4, Ratings>=1000, GenreSec=False:
+      support          itemsets
+40   1.000000         (Reviews)
+163  0.998845  (Reviews, Price)
+36   0.998845           (Price)
+126  0.265589   (Reviews, GAME)
+22   0.265589            (GAME)
+
+Résultat 57 pour Installs>=5000000, Reviews>=4, Ratings>=1500, GenreSec=True:
+      support                     itemsets
+44   1.000000                    (Reviews)
+235  0.998845             (Reviews, Price)
+40   0.998845                      (Price)
+33   0.936490           (NoSecondaryGenre)
+199  0.936490  (Reviews, NoSecondaryGenre)
+
+Résultat 58 pour Installs>=5000000, Reviews>=4, Ratings>=1500, GenreSec=False:
+      support          itemsets
+40   1.000000         (Reviews)
+163  0.998845  (Reviews, Price)
+36   0.998845           (Price)
+126  0.265589   (Reviews, GAME)
+22   0.265589            (GAME)
+
+Résultat 59 pour Installs>=5000000, Reviews>=4, Ratings>=30000, GenreSec=True:
+      support                     itemsets
+44   1.000000                    (Reviews)
+235  0.998845             (Reviews, Price)
+40   0.998845                      (Price)
+33   0.936490           (NoSecondaryGenre)
+199  0.936490  (Reviews, NoSecondaryGenre)
+
+Résultat 60 pour Installs>=5000000, Reviews>=4, Ratings>=30000, GenreSec=False:
+      support          itemsets
+40   1.000000         (Reviews)
+163  0.998845  (Reviews, Price)
+36   0.998845           (Price)
+126  0.265589   (Reviews, GAME)
+22   0.265589            (GAME)
+
+Résultat 61 pour Installs>=5000000, Reviews>=4.5, Ratings>=0, GenreSec=True:
+      support                     itemsets
+44   1.000000                    (Reviews)
+235  0.998845             (Reviews, Price)
+40   0.998845                      (Price)
+33   0.936490           (NoSecondaryGenre)
+199  0.936490  (Reviews, NoSecondaryGenre)
+
+Résultat 62 pour Installs>=5000000, Reviews>=4.5, Ratings>=0, GenreSec=False:
+      support          itemsets
+40   1.000000         (Reviews)
+163  0.998845  (Reviews, Price)
+36   0.998845           (Price)
+126  0.265589   (Reviews, GAME)
+22   0.265589            (GAME)
+
+Résultat 63 pour Installs>=5000000, Reviews>=4.5, Ratings>=100, GenreSec=True:
+      support                     itemsets
+44   1.000000                    (Reviews)
+235  0.998845             (Reviews, Price)
+40   0.998845                      (Price)
+33   0.936490           (NoSecondaryGenre)
+199  0.936490  (Reviews, NoSecondaryGenre)
+
+Résultat 64 pour Installs>=5000000, Reviews>=4.5, Ratings>=100, GenreSec=False:
+      support          itemsets
+40   1.000000         (Reviews)
+163  0.998845  (Reviews, Price)
+36   0.998845           (Price)
+126  0.265589   (Reviews, GAME)
+22   0.265589            (GAME)
+
+Résultat 65 pour Installs>=5000000, Reviews>=4.5, Ratings>=500, GenreSec=True:
+      support                     itemsets
+44   1.000000                    (Reviews)
+235  0.998845             (Reviews, Price)
+40   0.998845                      (Price)
+33   0.936490           (NoSecondaryGenre)
+199  0.936490  (Reviews, NoSecondaryGenre)
+
+Résultat 66 pour Installs>=5000000, Reviews>=4.5, Ratings>=500, GenreSec=False:
+      support          itemsets
+40   1.000000         (Reviews)
+163  0.998845  (Reviews, Price)
+36   0.998845           (Price)
+126  0.265589   (Reviews, GAME)
+22   0.265589            (GAME)
+
+Résultat 67 pour Installs>=5000000, Reviews>=4.5, Ratings>=1000, GenreSec=True:
+      support                     itemsets
+44   1.000000                    (Reviews)
+235  0.998845             (Reviews, Price)
+40   0.998845                      (Price)
+33   0.936490           (NoSecondaryGenre)
+199  0.936490  (Reviews, NoSecondaryGenre)
+
+Résultat 68 pour Installs>=5000000, Reviews>=4.5, Ratings>=1000, GenreSec=False:
+      support          itemsets
+40   1.000000         (Reviews)
+163  0.998845  (Reviews, Price)
+36   0.998845           (Price)
+126  0.265589   (Reviews, GAME)
+22   0.265589            (GAME)
+
+Résultat 69 pour Installs>=5000000, Reviews>=4.5, Ratings>=1500, GenreSec=True:
+      support                     itemsets
+44   1.000000                    (Reviews)
+235  0.998845             (Reviews, Price)
+40   0.998845                      (Price)
+33   0.936490           (NoSecondaryGenre)
+199  0.936490  (Reviews, NoSecondaryGenre)
+
+Résultat 70 pour Installs>=5000000, Reviews>=4.5, Ratings>=1500, GenreSec=False:
+      support          itemsets
+40   1.000000         (Reviews)
+163  0.998845  (Reviews, Price)
+36   0.998845           (Price)
+126  0.265589   (Reviews, GAME)
+22   0.265589            (GAME)
+
+Résultat 71 pour Installs>=5000000, Reviews>=4.5, Ratings>=30000, GenreSec=True:
+      support                     itemsets
+44   1.000000                    (Reviews)
+235  0.998845             (Reviews, Price)
+40   0.998845                      (Price)
+33   0.936490           (NoSecondaryGenre)
+199  0.936490  (Reviews, NoSecondaryGenre)
+
+Résultat 72 pour Installs>=5000000, Reviews>=4.5, Ratings>=30000, GenreSec=False:
+      support          itemsets
+40   1.000000         (Reviews)
+163  0.998845  (Reviews, Price)
+36   0.998845           (Price)
+126  0.265589   (Reviews, GAME)
+22   0.265589            (GAME)
+
+Résultat 73 pour Installs>=10000000, Reviews>=0, Ratings>=0, GenreSec=True:
+      support                         itemsets
+24   1.000000                          (Price)
+17   0.967890               (NoSecondaryGenre)
+94   0.967890        (NoSecondaryGenre, Price)
+14   0.344037                           (GAME)
+177  0.344037  (GAME, NoSecondaryGenre, Price)
+
+Résultat 74 pour Installs>=10000000, Reviews>=0, Ratings>=0, GenreSec=False:
+     support         itemsets
+21  1.000000          (Price)
+64  0.344037    (GAME, Price)
+13  0.344037           (GAME)
+12  0.123853         (FAMILY)
+60  0.123853  (FAMILY, Price)
+
+Résultat 75 pour Installs>=10000000, Reviews>=0, Ratings>=100, GenreSec=True:
+      support                         itemsets
+24   1.000000                          (Price)
+17   0.967890               (NoSecondaryGenre)
+94   0.967890        (NoSecondaryGenre, Price)
+14   0.344037                           (GAME)
+177  0.344037  (GAME, NoSecondaryGenre, Price)
+
+Résultat 76 pour Installs>=10000000, Reviews>=0, Ratings>=100, GenreSec=False:
+     support         itemsets
+21  1.000000          (Price)
+64  0.344037    (GAME, Price)
+13  0.344037           (GAME)
+12  0.123853         (FAMILY)
+60  0.123853  (FAMILY, Price)
+
+Résultat 77 pour Installs>=10000000, Reviews>=0, Ratings>=500, GenreSec=True:
+      support                         itemsets
+24   1.000000                          (Price)
+17   0.967890               (NoSecondaryGenre)
+94   0.967890        (NoSecondaryGenre, Price)
+14   0.344037                           (GAME)
+177  0.344037  (GAME, NoSecondaryGenre, Price)
+
+Résultat 78 pour Installs>=10000000, Reviews>=0, Ratings>=500, GenreSec=False:
+     support         itemsets
+21  1.000000          (Price)
+64  0.344037    (GAME, Price)
+13  0.344037           (GAME)
+12  0.123853         (FAMILY)
+60  0.123853  (FAMILY, Price)
+
+Résultat 79 pour Installs>=10000000, Reviews>=0, Ratings>=1000, GenreSec=True:
+      support                         itemsets
+24   1.000000                          (Price)
+17   0.967890               (NoSecondaryGenre)
+94   0.967890        (NoSecondaryGenre, Price)
+14   0.344037                           (GAME)
+177  0.344037  (GAME, NoSecondaryGenre, Price)
+
+Résultat 80 pour Installs>=10000000, Reviews>=0, Ratings>=1000, GenreSec=False:
+     support         itemsets
+21  1.000000          (Price)
+64  0.344037    (GAME, Price)
+13  0.344037           (GAME)
+12  0.123853         (FAMILY)
+60  0.123853  (FAMILY, Price)
+
+Résultat 81 pour Installs>=10000000, Reviews>=0, Ratings>=1500, GenreSec=True:
+      support                         itemsets
+24   1.000000                          (Price)
+17   0.967890               (NoSecondaryGenre)
+94   0.967890        (NoSecondaryGenre, Price)
+14   0.344037                           (GAME)
+177  0.344037  (GAME, NoSecondaryGenre, Price)
+
+Résultat 82 pour Installs>=10000000, Reviews>=0, Ratings>=1500, GenreSec=False:
+     support         itemsets
+21  1.000000          (Price)
+64  0.344037    (GAME, Price)
+13  0.344037           (GAME)
+12  0.123853         (FAMILY)
+60  0.123853  (FAMILY, Price)
+
+Résultat 83 pour Installs>=10000000, Reviews>=0, Ratings>=30000, GenreSec=True:
+      support                         itemsets
+24   1.000000                          (Price)
+17   0.967890               (NoSecondaryGenre)
+94   0.967890        (NoSecondaryGenre, Price)
+14   0.344037                           (GAME)
+177  0.344037  (GAME, NoSecondaryGenre, Price)
+
+Résultat 84 pour Installs>=10000000, Reviews>=0, Ratings>=30000, GenreSec=False:
+     support         itemsets
+21  1.000000          (Price)
+64  0.344037    (GAME, Price)
+13  0.344037           (GAME)
+12  0.123853         (FAMILY)
+60  0.123853  (FAMILY, Price)
+
+Résultat 85 pour Installs>=10000000, Reviews>=4, Ratings>=0, GenreSec=True:
+     support                            itemsets
+148  1.00000                    (Reviews, Price)
+28   1.00000                           (Reviews)
+24   1.00000                             (Price)
+292  0.96789  (Reviews, NoSecondaryGenre, Price)
+116  0.96789         (Reviews, NoSecondaryGenre)
+
+Résultat 86 pour Installs>=10000000, Reviews>=4, Ratings>=0, GenreSec=False:
+      support                itemsets
+25   1.000000               (Reviews)
+103  1.000000        (Reviews, Price)
+21   1.000000                 (Price)
+179  0.344037  (Reviews, GAME, Price)
+78   0.344037           (GAME, Price)
+
+Résultat 87 pour Installs>=10000000, Reviews>=4, Ratings>=100, GenreSec=True:
+     support                            itemsets
+148  1.00000                    (Reviews, Price)
+28   1.00000                           (Reviews)
+24   1.00000                             (Price)
+292  0.96789  (Reviews, NoSecondaryGenre, Price)
+116  0.96789         (Reviews, NoSecondaryGenre)
+
+Résultat 88 pour Installs>=10000000, Reviews>=4, Ratings>=100, GenreSec=False:
+      support                itemsets
+25   1.000000               (Reviews)
+103  1.000000        (Reviews, Price)
+21   1.000000                 (Price)
+179  0.344037  (Reviews, GAME, Price)
+78   0.344037           (GAME, Price)
+
+Résultat 89 pour Installs>=10000000, Reviews>=4, Ratings>=500, GenreSec=True:
+     support                            itemsets
+148  1.00000                    (Reviews, Price)
+28   1.00000                           (Reviews)
+24   1.00000                             (Price)
+292  0.96789  (Reviews, NoSecondaryGenre, Price)
+116  0.96789         (Reviews, NoSecondaryGenre)
+
+Résultat 90 pour Installs>=10000000, Reviews>=4, Ratings>=500, GenreSec=False:
+      support                itemsets
+25   1.000000               (Reviews)
+103  1.000000        (Reviews, Price)
+21   1.000000                 (Price)
+179  0.344037  (Reviews, GAME, Price)
+78   0.344037           (GAME, Price)
+
+Résultat 91 pour Installs>=10000000, Reviews>=4, Ratings>=1000, GenreSec=True:
+     support                            itemsets
+148  1.00000                    (Reviews, Price)
+28   1.00000                           (Reviews)
+24   1.00000                             (Price)
+292  0.96789  (Reviews, NoSecondaryGenre, Price)
+116  0.96789         (Reviews, NoSecondaryGenre)
+
+Résultat 92 pour Installs>=10000000, Reviews>=4, Ratings>=1000, GenreSec=False:
+      support                itemsets
+25   1.000000               (Reviews)
+103  1.000000        (Reviews, Price)
+21   1.000000                 (Price)
+179  0.344037  (Reviews, GAME, Price)
+78   0.344037           (GAME, Price)
+
+Résultat 93 pour Installs>=10000000, Reviews>=4, Ratings>=1500, GenreSec=True:
+     support                            itemsets
+148  1.00000                    (Reviews, Price)
+28   1.00000                           (Reviews)
+24   1.00000                             (Price)
+292  0.96789  (Reviews, NoSecondaryGenre, Price)
+116  0.96789         (Reviews, NoSecondaryGenre)
+
+Résultat 94 pour Installs>=10000000, Reviews>=4, Ratings>=1500, GenreSec=False:
+      support                itemsets
+25   1.000000               (Reviews)
+103  1.000000        (Reviews, Price)
+21   1.000000                 (Price)
+179  0.344037  (Reviews, GAME, Price)
+78   0.344037           (GAME, Price)
+
+Résultat 95 pour Installs>=10000000, Reviews>=4, Ratings>=30000, GenreSec=True:
+     support                            itemsets
+148  1.00000                    (Reviews, Price)
+28   1.00000                           (Reviews)
+24   1.00000                             (Price)
+292  0.96789  (Reviews, NoSecondaryGenre, Price)
+116  0.96789         (Reviews, NoSecondaryGenre)
+
+Résultat 96 pour Installs>=10000000, Reviews>=4, Ratings>=30000, GenreSec=False:
+      support                itemsets
+25   1.000000               (Reviews)
+103  1.000000        (Reviews, Price)
+21   1.000000                 (Price)
+179  0.344037  (Reviews, GAME, Price)
+78   0.344037           (GAME, Price)
+
+Résultat 97 pour Installs>=10000000, Reviews>=4.5, Ratings>=0, GenreSec=True:
+     support                            itemsets
+148  1.00000                    (Reviews, Price)
+28   1.00000                           (Reviews)
+24   1.00000                             (Price)
+292  0.96789  (Reviews, NoSecondaryGenre, Price)
+116  0.96789         (Reviews, NoSecondaryGenre)
+
+Résultat 98 pour Installs>=10000000, Reviews>=4.5, Ratings>=0, GenreSec=False:
+      support                itemsets
+25   1.000000               (Reviews)
+103  1.000000        (Reviews, Price)
+21   1.000000                 (Price)
+179  0.344037  (Reviews, GAME, Price)
+78   0.344037           (GAME, Price)
+
+Résultat 99 pour Installs>=10000000, Reviews>=4.5, Ratings>=100, GenreSec=True:
+     support                            itemsets
+148  1.00000                    (Reviews, Price)
+28   1.00000                           (Reviews)
+24   1.00000                             (Price)
+292  0.96789  (Reviews, NoSecondaryGenre, Price)
+116  0.96789         (Reviews, NoSecondaryGenre)
+
+Résultat 100 pour Installs>=10000000, Reviews>=4.5, Ratings>=100, GenreSec=False:
+      support                itemsets
+25   1.000000               (Reviews)
+103  1.000000        (Reviews, Price)
+21   1.000000                 (Price)
+179  0.344037  (Reviews, GAME, Price)
+78   0.344037           (GAME, Price)
+
+Résultat 101 pour Installs>=10000000, Reviews>=4.5, Ratings>=500, GenreSec=True:
+     support                            itemsets
+148  1.00000                    (Reviews, Price)
+28   1.00000                           (Reviews)
+24   1.00000                             (Price)
+292  0.96789  (Reviews, NoSecondaryGenre, Price)
+116  0.96789         (Reviews, NoSecondaryGenre)
+
+Résultat 102 pour Installs>=10000000, Reviews>=4.5, Ratings>=500, GenreSec=False:
+      support                itemsets
+25   1.000000               (Reviews)
+103  1.000000        (Reviews, Price)
+21   1.000000                 (Price)
+179  0.344037  (Reviews, GAME, Price)
+78   0.344037           (GAME, Price)
+
+Résultat 103 pour Installs>=10000000, Reviews>=4.5, Ratings>=1000, GenreSec=True:
+     support                            itemsets
+148  1.00000                    (Reviews, Price)
+28   1.00000                           (Reviews)
+24   1.00000                             (Price)
+292  0.96789  (Reviews, NoSecondaryGenre, Price)
+116  0.96789         (Reviews, NoSecondaryGenre)
+
+Résultat 104 pour Installs>=10000000, Reviews>=4.5, Ratings>=1000, GenreSec=False:
+      support                itemsets
+25   1.000000               (Reviews)
+103  1.000000        (Reviews, Price)
+21   1.000000                 (Price)
+179  0.344037  (Reviews, GAME, Price)
+78   0.344037           (GAME, Price)
+
+Résultat 105 pour Installs>=10000000, Reviews>=4.5, Ratings>=1500, GenreSec=True:
+     support                            itemsets
+148  1.00000                    (Reviews, Price)
+28   1.00000                           (Reviews)
+24   1.00000                             (Price)
+292  0.96789  (Reviews, NoSecondaryGenre, Price)
+116  0.96789         (Reviews, NoSecondaryGenre)
+
+Résultat 106 pour Installs>=10000000, Reviews>=4.5, Ratings>=1500, GenreSec=False:
+      support                itemsets
+25   1.000000               (Reviews)
+103  1.000000        (Reviews, Price)
+21   1.000000                 (Price)
+179  0.344037  (Reviews, GAME, Price)
+78   0.344037           (GAME, Price)
+
+Résultat 107 pour Installs>=10000000, Reviews>=4.5, Ratings>=30000, GenreSec=True:
+     support                            itemsets
+148  1.00000                    (Reviews, Price)
+28   1.00000                           (Reviews)
+24   1.00000                             (Price)
+292  0.96789  (Reviews, NoSecondaryGenre, Price)
+116  0.96789         (Reviews, NoSecondaryGenre)
+
+Résultat 108 pour Installs>=10000000, Reviews>=4.5, Ratings>=30000, GenreSec=False:
+      support                itemsets
+25   1.000000               (Reviews)
+103  1.000000        (Reviews, Price)
+21   1.000000                 (Price)
+179  0.344037  (Reviews, GAME, Price)
+78   0.344037           (GAME, Price)
+
+Résultat 109 pour Installs>=50000000, Reviews>=0, Ratings>=0, GenreSec=True:
+      support                   itemsets
+26   1.000000                    (Price)
+105  0.981132  (NoSecondaryGenre, Price)
+20   0.981132         (NoSecondaryGenre)
+13   0.377358                     (GAME)
+80   0.377358              (GAME, Price)
+
+Résultat 110 pour Installs>=50000000, Reviews>=0, Ratings>=0, GenreSec=False:
+     support          itemsets
+23  1.000000           (Price)
+60  0.377358     (GAME, Price)
+11  0.377358            (GAME)
+2   0.160377         (Arcade1)
+44  0.160377  (Arcade1, Price)
+
+Résultat 111 pour Installs>=50000000, Reviews>=0, Ratings>=100, GenreSec=True:
+      support                   itemsets
+26   1.000000                    (Price)
+105  0.981132  (NoSecondaryGenre, Price)
+20   0.981132         (NoSecondaryGenre)
+13   0.377358                     (GAME)
+80   0.377358              (GAME, Price)
+
+Résultat 112 pour Installs>=50000000, Reviews>=0, Ratings>=100, GenreSec=False:
+     support          itemsets
+23  1.000000           (Price)
+60  0.377358     (GAME, Price)
+11  0.377358            (GAME)
+2   0.160377         (Arcade1)
+44  0.160377  (Arcade1, Price)
+
+Résultat 113 pour Installs>=50000000, Reviews>=0, Ratings>=500, GenreSec=True:
+      support                   itemsets
+26   1.000000                    (Price)
+105  0.981132  (NoSecondaryGenre, Price)
+20   0.981132         (NoSecondaryGenre)
+13   0.377358                     (GAME)
+80   0.377358              (GAME, Price)
+
+Résultat 114 pour Installs>=50000000, Reviews>=0, Ratings>=500, GenreSec=False:
+     support          itemsets
+23  1.000000           (Price)
+60  0.377358     (GAME, Price)
+11  0.377358            (GAME)
+2   0.160377         (Arcade1)
+44  0.160377  (Arcade1, Price)
+
+Résultat 115 pour Installs>=50000000, Reviews>=0, Ratings>=1000, GenreSec=True:
+      support                   itemsets
+26   1.000000                    (Price)
+105  0.981132  (NoSecondaryGenre, Price)
+20   0.981132         (NoSecondaryGenre)
+13   0.377358                     (GAME)
+80   0.377358              (GAME, Price)
+
+Résultat 116 pour Installs>=50000000, Reviews>=0, Ratings>=1000, GenreSec=False:
+     support          itemsets
+23  1.000000           (Price)
+60  0.377358     (GAME, Price)
+11  0.377358            (GAME)
+2   0.160377         (Arcade1)
+44  0.160377  (Arcade1, Price)
+
+Résultat 117 pour Installs>=50000000, Reviews>=0, Ratings>=1500, GenreSec=True:
+      support                   itemsets
+26   1.000000                    (Price)
+105  0.981132  (NoSecondaryGenre, Price)
+20   0.981132         (NoSecondaryGenre)
+13   0.377358                     (GAME)
+80   0.377358              (GAME, Price)
+
+Résultat 118 pour Installs>=50000000, Reviews>=0, Ratings>=1500, GenreSec=False:
+     support          itemsets
+23  1.000000           (Price)
+60  0.377358     (GAME, Price)
+11  0.377358            (GAME)
+2   0.160377         (Arcade1)
+44  0.160377  (Arcade1, Price)
+
+Résultat 119 pour Installs>=50000000, Reviews>=0, Ratings>=30000, GenreSec=True:
+      support                   itemsets
+26   1.000000                    (Price)
+105  0.981132  (NoSecondaryGenre, Price)
+20   0.981132         (NoSecondaryGenre)
+13   0.377358                     (GAME)
+80   0.377358              (GAME, Price)
+
+Résultat 120 pour Installs>=50000000, Reviews>=0, Ratings>=30000, GenreSec=False:
+     support          itemsets
+23  1.000000           (Price)
+60  0.377358     (GAME, Price)
+11  0.377358            (GAME)
+2   0.160377         (Arcade1)
+44  0.160377  (Arcade1, Price)
+
+Résultat 121 pour Installs>=50000000, Reviews>=4, Ratings>=0, GenreSec=True:
+      support                            itemsets
+30   1.000000                           (Reviews)
+26   1.000000                             (Price)
+159  1.000000                    (Reviews, Price)
+130  0.981132         (Reviews, NoSecondaryGenre)
+321  0.981132  (Reviews, NoSecondaryGenre, Price)
+
+Résultat 122 pour Installs>=50000000, Reviews>=4, Ratings>=0, GenreSec=False:
+      support                itemsets
+109  1.000000        (Reviews, Price)
+27   1.000000               (Reviews)
+23   1.000000                 (Price)
+75   0.377358         (Reviews, GAME)
+175  0.377358  (Reviews, GAME, Price)
+
+Résultat 123 pour Installs>=50000000, Reviews>=4, Ratings>=100, GenreSec=True:
+      support                            itemsets
+30   1.000000                           (Reviews)
+26   1.000000                             (Price)
+159  1.000000                    (Reviews, Price)
+130  0.981132         (Reviews, NoSecondaryGenre)
+321  0.981132  (Reviews, NoSecondaryGenre, Price)
+
+Résultat 124 pour Installs>=50000000, Reviews>=4, Ratings>=100, GenreSec=False:
+      support                itemsets
+109  1.000000        (Reviews, Price)
+27   1.000000               (Reviews)
+23   1.000000                 (Price)
+75   0.377358         (Reviews, GAME)
+175  0.377358  (Reviews, GAME, Price)
+
+Résultat 125 pour Installs>=50000000, Reviews>=4, Ratings>=500, GenreSec=True:
+      support                            itemsets
+30   1.000000                           (Reviews)
+26   1.000000                             (Price)
+159  1.000000                    (Reviews, Price)
+130  0.981132         (Reviews, NoSecondaryGenre)
+321  0.981132  (Reviews, NoSecondaryGenre, Price)
+
+Résultat 126 pour Installs>=50000000, Reviews>=4, Ratings>=500, GenreSec=False:
+      support                itemsets
+109  1.000000        (Reviews, Price)
+27   1.000000               (Reviews)
+23   1.000000                 (Price)
+75   0.377358         (Reviews, GAME)
+175  0.377358  (Reviews, GAME, Price)
+
+Résultat 127 pour Installs>=50000000, Reviews>=4, Ratings>=1000, GenreSec=True:
+      support                            itemsets
+30   1.000000                           (Reviews)
+26   1.000000                             (Price)
+159  1.000000                    (Reviews, Price)
+130  0.981132         (Reviews, NoSecondaryGenre)
+321  0.981132  (Reviews, NoSecondaryGenre, Price)
+
+Résultat 128 pour Installs>=50000000, Reviews>=4, Ratings>=1000, GenreSec=False:
+      support                itemsets
+109  1.000000        (Reviews, Price)
+27   1.000000               (Reviews)
+23   1.000000                 (Price)
+75   0.377358         (Reviews, GAME)
+175  0.377358  (Reviews, GAME, Price)
+
+Résultat 129 pour Installs>=50000000, Reviews>=4, Ratings>=1500, GenreSec=True:
+      support                            itemsets
+30   1.000000                           (Reviews)
+26   1.000000                             (Price)
+159  1.000000                    (Reviews, Price)
+130  0.981132         (Reviews, NoSecondaryGenre)
+321  0.981132  (Reviews, NoSecondaryGenre, Price)
+
+Résultat 130 pour Installs>=50000000, Reviews>=4, Ratings>=1500, GenreSec=False:
+      support                itemsets
+109  1.000000        (Reviews, Price)
+27   1.000000               (Reviews)
+23   1.000000                 (Price)
+75   0.377358         (Reviews, GAME)
+175  0.377358  (Reviews, GAME, Price)
+
+Résultat 131 pour Installs>=50000000, Reviews>=4, Ratings>=30000, GenreSec=True:
+      support                            itemsets
+30   1.000000                           (Reviews)
+26   1.000000                             (Price)
+159  1.000000                    (Reviews, Price)
+130  0.981132         (Reviews, NoSecondaryGenre)
+321  0.981132  (Reviews, NoSecondaryGenre, Price)
+
+Résultat 132 pour Installs>=50000000, Reviews>=4, Ratings>=30000, GenreSec=False:
+      support                itemsets
+109  1.000000        (Reviews, Price)
+27   1.000000               (Reviews)
+23   1.000000                 (Price)
+75   0.377358         (Reviews, GAME)
+175  0.377358  (Reviews, GAME, Price)
+
+Résultat 133 pour Installs>=50000000, Reviews>=4.5, Ratings>=0, GenreSec=True:
+      support                            itemsets
+30   1.000000                           (Reviews)
+26   1.000000                             (Price)
+159  1.000000                    (Reviews, Price)
+130  0.981132         (Reviews, NoSecondaryGenre)
+321  0.981132  (Reviews, NoSecondaryGenre, Price)
+
+Résultat 134 pour Installs>=50000000, Reviews>=4.5, Ratings>=0, GenreSec=False:
+      support                itemsets
+109  1.000000        (Reviews, Price)
+27   1.000000               (Reviews)
+23   1.000000                 (Price)
+75   0.377358         (Reviews, GAME)
+175  0.377358  (Reviews, GAME, Price)
+
+Résultat 135 pour Installs>=50000000, Reviews>=4.5, Ratings>=100, GenreSec=True:
+      support                            itemsets
+30   1.000000                           (Reviews)
+26   1.000000                             (Price)
+159  1.000000                    (Reviews, Price)
+130  0.981132         (Reviews, NoSecondaryGenre)
+321  0.981132  (Reviews, NoSecondaryGenre, Price)
+
+Résultat 136 pour Installs>=50000000, Reviews>=4.5, Ratings>=100, GenreSec=False:
+      support                itemsets
+109  1.000000        (Reviews, Price)
+27   1.000000               (Reviews)
+23   1.000000                 (Price)
+75   0.377358         (Reviews, GAME)
+175  0.377358  (Reviews, GAME, Price)
+
+Résultat 137 pour Installs>=50000000, Reviews>=4.5, Ratings>=500, GenreSec=True:
+      support                            itemsets
+30   1.000000                           (Reviews)
+26   1.000000                             (Price)
+159  1.000000                    (Reviews, Price)
+130  0.981132         (Reviews, NoSecondaryGenre)
+321  0.981132  (Reviews, NoSecondaryGenre, Price)
+
+Résultat 138 pour Installs>=50000000, Reviews>=4.5, Ratings>=500, GenreSec=False:
+      support                itemsets
+109  1.000000        (Reviews, Price)
+27   1.000000               (Reviews)
+23   1.000000                 (Price)
+75   0.377358         (Reviews, GAME)
+175  0.377358  (Reviews, GAME, Price)
+
+Résultat 139 pour Installs>=50000000, Reviews>=4.5, Ratings>=1000, GenreSec=True:
+      support                            itemsets
+30   1.000000                           (Reviews)
+26   1.000000                             (Price)
+159  1.000000                    (Reviews, Price)
+130  0.981132         (Reviews, NoSecondaryGenre)
+321  0.981132  (Reviews, NoSecondaryGenre, Price)
+
+Résultat 140 pour Installs>=50000000, Reviews>=4.5, Ratings>=1000, GenreSec=False:
+      support                itemsets
+109  1.000000        (Reviews, Price)
+27   1.000000               (Reviews)
+23   1.000000                 (Price)
+75   0.377358         (Reviews, GAME)
+175  0.377358  (Reviews, GAME, Price)
+
+Résultat 141 pour Installs>=50000000, Reviews>=4.5, Ratings>=1500, GenreSec=True:
+      support                            itemsets
+30   1.000000                           (Reviews)
+26   1.000000                             (Price)
+159  1.000000                    (Reviews, Price)
+130  0.981132         (Reviews, NoSecondaryGenre)
+321  0.981132  (Reviews, NoSecondaryGenre, Price)
+
+Résultat 142 pour Installs>=50000000, Reviews>=4.5, Ratings>=1500, GenreSec=False:
+      support                itemsets
+109  1.000000        (Reviews, Price)
+27   1.000000               (Reviews)
+23   1.000000                 (Price)
+75   0.377358         (Reviews, GAME)
+175  0.377358  (Reviews, GAME, Price)
+
+Résultat 143 pour Installs>=50000000, Reviews>=4.5, Ratings>=30000, GenreSec=True:
+      support                            itemsets
+30   1.000000                           (Reviews)
+26   1.000000                             (Price)
+159  1.000000                    (Reviews, Price)
+130  0.981132         (Reviews, NoSecondaryGenre)
+321  0.981132  (Reviews, NoSecondaryGenre, Price)
+
+Résultat 144 pour Installs>=50000000, Reviews>=4.5, Ratings>=30000, GenreSec=False:
+      support                itemsets
+109  1.000000        (Reviews, Price)
+27   1.000000               (Reviews)
+23   1.000000                 (Price)
+75   0.377358         (Reviews, GAME)
+175  0.377358  (Reviews, GAME, Price)
+
+Résultat 145 pour Installs>=100000000, Reviews>=0, Ratings>=0, GenreSec=True:
+    support                         itemsets
+12      1.0                          (Price)
+42      1.0        (NoSecondaryGenre, Price)
+10      1.0               (NoSecondaryGenre)
+24      0.2           (COMMUNICATION, Price)
+22      0.2  (Communication1, COMMUNICATION)
+
+Résultat 146 pour Installs>=100000000, Reviews>=0, Ratings>=0, GenreSec=False:
+    support          itemsets
+11      1.0           (Price)
+21      0.2  (Casual1, Price)
+2       0.2   (COMMUNICATION)
+3       0.2         (Casual1)
+4       0.2  (Communication1)
+
+Résultat 147 pour Installs>=100000000, Reviews>=0, Ratings>=100, GenreSec=True:
+    support                         itemsets
+12      1.0                          (Price)
+42      1.0        (NoSecondaryGenre, Price)
+10      1.0               (NoSecondaryGenre)
+24      0.2           (COMMUNICATION, Price)
+22      0.2  (Communication1, COMMUNICATION)
+
+Résultat 148 pour Installs>=100000000, Reviews>=0, Ratings>=100, GenreSec=False:
+    support          itemsets
+11      1.0           (Price)
+21      0.2  (Casual1, Price)
+2       0.2   (COMMUNICATION)
+3       0.2         (Casual1)
+4       0.2  (Communication1)
+
+Résultat 149 pour Installs>=100000000, Reviews>=0, Ratings>=500, GenreSec=True:
+    support                         itemsets
+12      1.0                          (Price)
+42      1.0        (NoSecondaryGenre, Price)
+10      1.0               (NoSecondaryGenre)
+24      0.2           (COMMUNICATION, Price)
+22      0.2  (Communication1, COMMUNICATION)
+
+Résultat 150 pour Installs>=100000000, Reviews>=0, Ratings>=500, GenreSec=False:
+    support          itemsets
+11      1.0           (Price)
+21      0.2  (Casual1, Price)
+2       0.2   (COMMUNICATION)
+3       0.2         (Casual1)
+4       0.2  (Communication1)
+
+Résultat 151 pour Installs>=100000000, Reviews>=0, Ratings>=1000, GenreSec=True:
+    support                         itemsets
+12      1.0                          (Price)
+42      1.0        (NoSecondaryGenre, Price)
+10      1.0               (NoSecondaryGenre)
+24      0.2           (COMMUNICATION, Price)
+22      0.2  (Communication1, COMMUNICATION)
+
+Résultat 152 pour Installs>=100000000, Reviews>=0, Ratings>=1000, GenreSec=False:
+    support          itemsets
+11      1.0           (Price)
+21      0.2  (Casual1, Price)
+2       0.2   (COMMUNICATION)
+3       0.2         (Casual1)
+4       0.2  (Communication1)
+
+Résultat 153 pour Installs>=100000000, Reviews>=0, Ratings>=1500, GenreSec=True:
+    support                         itemsets
+12      1.0                          (Price)
+42      1.0        (NoSecondaryGenre, Price)
+10      1.0               (NoSecondaryGenre)
+24      0.2           (COMMUNICATION, Price)
+22      0.2  (Communication1, COMMUNICATION)
+
+Résultat 154 pour Installs>=100000000, Reviews>=0, Ratings>=1500, GenreSec=False:
+    support          itemsets
+11      1.0           (Price)
+21      0.2  (Casual1, Price)
+2       0.2   (COMMUNICATION)
+3       0.2         (Casual1)
+4       0.2  (Communication1)
+
+Résultat 155 pour Installs>=100000000, Reviews>=0, Ratings>=30000, GenreSec=True:
+    support                         itemsets
+12      1.0                          (Price)
+42      1.0        (NoSecondaryGenre, Price)
+10      1.0               (NoSecondaryGenre)
+24      0.2           (COMMUNICATION, Price)
+22      0.2  (Communication1, COMMUNICATION)
+
+Résultat 156 pour Installs>=100000000, Reviews>=0, Ratings>=30000, GenreSec=False:
+    support          itemsets
+11      1.0           (Price)
+21      0.2  (Casual1, Price)
+2       0.2   (COMMUNICATION)
+3       0.2         (Casual1)
+4       0.2  (Communication1)
+
+Résultat 157 pour Installs>=100000000, Reviews>=4, Ratings>=0, GenreSec=True:
+     support                            itemsets
+62       1.0                    (Reviews, Price)
+10       1.0                  (NoSecondaryGenre)
+53       1.0           (NoSecondaryGenre, Price)
+118      1.0  (Reviews, NoSecondaryGenre, Price)
+14       1.0                           (Reviews)
+
+Résultat 158 pour Installs>=100000000, Reviews>=4, Ratings>=0, GenreSec=False:
+    support                  itemsets
+13      1.0                 (Reviews)
+11      1.0                   (Price)
+45      1.0          (Reviews, Price)
+24      0.2  (Reviews, COMMUNICATION)
+23      0.2    (COMMUNICATION, Price)
+
+Résultat 159 pour Installs>=100000000, Reviews>=4, Ratings>=100, GenreSec=True:
+     support                            itemsets
+62       1.0                    (Reviews, Price)
+10       1.0                  (NoSecondaryGenre)
+53       1.0           (NoSecondaryGenre, Price)
+118      1.0  (Reviews, NoSecondaryGenre, Price)
+14       1.0                           (Reviews)
+
+Résultat 160 pour Installs>=100000000, Reviews>=4, Ratings>=100, GenreSec=False:
+    support                  itemsets
+13      1.0                 (Reviews)
+11      1.0                   (Price)
+45      1.0          (Reviews, Price)
+24      0.2  (Reviews, COMMUNICATION)
+23      0.2    (COMMUNICATION, Price)
+
+Résultat 161 pour Installs>=100000000, Reviews>=4, Ratings>=500, GenreSec=True:
+     support                            itemsets
+62       1.0                    (Reviews, Price)
+10       1.0                  (NoSecondaryGenre)
+53       1.0           (NoSecondaryGenre, Price)
+118      1.0  (Reviews, NoSecondaryGenre, Price)
+14       1.0                           (Reviews)
+
+Résultat 162 pour Installs>=100000000, Reviews>=4, Ratings>=500, GenreSec=False:
+    support                  itemsets
+13      1.0                 (Reviews)
+11      1.0                   (Price)
+45      1.0          (Reviews, Price)
+24      0.2  (Reviews, COMMUNICATION)
+23      0.2    (COMMUNICATION, Price)
+
+Résultat 163 pour Installs>=100000000, Reviews>=4, Ratings>=1000, GenreSec=True:
+     support                            itemsets
+62       1.0                    (Reviews, Price)
+10       1.0                  (NoSecondaryGenre)
+53       1.0           (NoSecondaryGenre, Price)
+118      1.0  (Reviews, NoSecondaryGenre, Price)
+14       1.0                           (Reviews)
+
+Résultat 164 pour Installs>=100000000, Reviews>=4, Ratings>=1000, GenreSec=False:
+    support                  itemsets
+13      1.0                 (Reviews)
+11      1.0                   (Price)
+45      1.0          (Reviews, Price)
+24      0.2  (Reviews, COMMUNICATION)
+23      0.2    (COMMUNICATION, Price)
+
+Résultat 165 pour Installs>=100000000, Reviews>=4, Ratings>=1500, GenreSec=True:
+     support                            itemsets
+62       1.0                    (Reviews, Price)
+10       1.0                  (NoSecondaryGenre)
+53       1.0           (NoSecondaryGenre, Price)
+118      1.0  (Reviews, NoSecondaryGenre, Price)
+14       1.0                           (Reviews)
+
+Résultat 166 pour Installs>=100000000, Reviews>=4, Ratings>=1500, GenreSec=False:
+    support                  itemsets
+13      1.0                 (Reviews)
+11      1.0                   (Price)
+45      1.0          (Reviews, Price)
+24      0.2  (Reviews, COMMUNICATION)
+23      0.2    (COMMUNICATION, Price)
+
+Résultat 167 pour Installs>=100000000, Reviews>=4, Ratings>=30000, GenreSec=True:
+     support                            itemsets
+62       1.0                    (Reviews, Price)
+10       1.0                  (NoSecondaryGenre)
+53       1.0           (NoSecondaryGenre, Price)
+118      1.0  (Reviews, NoSecondaryGenre, Price)
+14       1.0                           (Reviews)
+
+Résultat 168 pour Installs>=100000000, Reviews>=4, Ratings>=30000, GenreSec=False:
+    support                  itemsets
+13      1.0                 (Reviews)
+11      1.0                   (Price)
+45      1.0          (Reviews, Price)
+24      0.2  (Reviews, COMMUNICATION)
+23      0.2    (COMMUNICATION, Price)
+
+Résultat 169 pour Installs>=100000000, Reviews>=4.5, Ratings>=0, GenreSec=True:
+     support                            itemsets
+62       1.0                    (Reviews, Price)
+10       1.0                  (NoSecondaryGenre)
+53       1.0           (NoSecondaryGenre, Price)
+118      1.0  (Reviews, NoSecondaryGenre, Price)
+14       1.0                           (Reviews)
+
+Résultat 170 pour Installs>=100000000, Reviews>=4.5, Ratings>=0, GenreSec=False:
+    support                  itemsets
+13      1.0                 (Reviews)
+11      1.0                   (Price)
+45      1.0          (Reviews, Price)
+24      0.2  (Reviews, COMMUNICATION)
+23      0.2    (COMMUNICATION, Price)
+
+Résultat 171 pour Installs>=100000000, Reviews>=4.5, Ratings>=100, GenreSec=True:
+     support                            itemsets
+62       1.0                    (Reviews, Price)
+10       1.0                  (NoSecondaryGenre)
+53       1.0           (NoSecondaryGenre, Price)
+118      1.0  (Reviews, NoSecondaryGenre, Price)
+14       1.0                           (Reviews)
+
+Résultat 172 pour Installs>=100000000, Reviews>=4.5, Ratings>=100, GenreSec=False:
+    support                  itemsets
+13      1.0                 (Reviews)
+11      1.0                   (Price)
+45      1.0          (Reviews, Price)
+24      0.2  (Reviews, COMMUNICATION)
+23      0.2    (COMMUNICATION, Price)
+
+Résultat 173 pour Installs>=100000000, Reviews>=4.5, Ratings>=500, GenreSec=True:
+     support                            itemsets
+62       1.0                    (Reviews, Price)
+10       1.0                  (NoSecondaryGenre)
+53       1.0           (NoSecondaryGenre, Price)
+118      1.0  (Reviews, NoSecondaryGenre, Price)
+14       1.0                           (Reviews)
+
+Résultat 174 pour Installs>=100000000, Reviews>=4.5, Ratings>=500, GenreSec=False:
+    support                  itemsets
+13      1.0                 (Reviews)
+11      1.0                   (Price)
+45      1.0          (Reviews, Price)
+24      0.2  (Reviews, COMMUNICATION)
+23      0.2    (COMMUNICATION, Price)
+
+Résultat 175 pour Installs>=100000000, Reviews>=4.5, Ratings>=1000, GenreSec=True:
+     support                            itemsets
+62       1.0                    (Reviews, Price)
+10       1.0                  (NoSecondaryGenre)
+53       1.0           (NoSecondaryGenre, Price)
+118      1.0  (Reviews, NoSecondaryGenre, Price)
+14       1.0                           (Reviews)
+
+Résultat 176 pour Installs>=100000000, Reviews>=4.5, Ratings>=1000, GenreSec=False:
+    support                  itemsets
+13      1.0                 (Reviews)
+11      1.0                   (Price)
+45      1.0          (Reviews, Price)
+24      0.2  (Reviews, COMMUNICATION)
+23      0.2    (COMMUNICATION, Price)
+
+Résultat 177 pour Installs>=100000000, Reviews>=4.5, Ratings>=1500, GenreSec=True:
+     support                            itemsets
+62       1.0                    (Reviews, Price)
+10       1.0                  (NoSecondaryGenre)
+53       1.0           (NoSecondaryGenre, Price)
+118      1.0  (Reviews, NoSecondaryGenre, Price)
+14       1.0                           (Reviews)
+
+Résultat 178 pour Installs>=100000000, Reviews>=4.5, Ratings>=1500, GenreSec=False:
+    support                  itemsets
+13      1.0                 (Reviews)
+11      1.0                   (Price)
+45      1.0          (Reviews, Price)
+24      0.2  (Reviews, COMMUNICATION)
+23      0.2    (COMMUNICATION, Price)
+
+Résultat 179 pour Installs>=100000000, Reviews>=4.5, Ratings>=30000, GenreSec=True:
+     support                            itemsets
+62       1.0                    (Reviews, Price)
+10       1.0                  (NoSecondaryGenre)
+53       1.0           (NoSecondaryGenre, Price)
+118      1.0  (Reviews, NoSecondaryGenre, Price)
+14       1.0                           (Reviews)
+
+Résultat 180 pour Installs>=100000000, Reviews>=4.5, Ratings>=30000, GenreSec=False:
+    support                  itemsets
+13      1.0                 (Reviews)
+11      1.0                   (Price)
+45      1.0          (Reviews, Price)
+24      0.2  (Reviews, COMMUNICATION)
+23      0.2    (COMMUNICATION, Price)
+
