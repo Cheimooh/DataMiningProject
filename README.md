@@ -3,17 +3,17 @@ Sonia DAKHLI, Nino RAVELLA, Maeva SOMNY
 ## Sujet : Applications du Google PlayStore
 
 ### Architecture
-- **/** : les fichiers source de l'analyse
+- **/** : les fichiers source de l'analyse :
   - *pretraitement.ipynb* : Partie III. Pré-traitement du dataset.
   - *clustering.ipynb* : Partie IV.A. Clustering.
   - *frequent_patterns.ipynb* : Partie IV.B. Frequent Patterns.
   - *keywords.ipynb*: Partie IV.C. Analyse des mots clés dans les titres.
-- **/data/** : contient les datasets 
-  - *googleplaystore.csv* : dataset utilisé
-  - *clean_dataset_googleplaystore* : dataset après pré-traitement
+- **/data/** : contient les datasets :
+  - *googleplaystore.csv* : dataset utilisé.
+  - *clean_dataset_googleplaystore* : dataset après pré-traitement.
   - *clean_dataset_googleplaystore_cat_str* : dataset après pré-traitement avec les noms de catégorie et de genre gardés en String.
   - *apriori.csv* : dataframe utilisé pour applique l'algorithme Apriori.
-- **/output/** : contient les sorties des frequent patterns (Partie IV.B.)
+- **/output/** : contient les sorties des frequent patterns (Partie IV.B.).
 
 ### Données
 Données du PlayStore collectées en 2018. Les informations contenues dans ce dataset sont : 
