@@ -1,0 +1,639 @@
+Résultat 1 pour Installs>=1000000, Reviews>=0, Ratings>=4, GenreSec=True:
+     support                                                   itemsets
+40  0.069789                                    ((Price, 1000000, 4.3))
+6   0.068852                         ((NoSecondaryGenre, 1000000, 4.3))
+41  0.068384                                    ((Price, 1000000, 4.4))
+84  0.066979  ((Price, 1000000, 4.3), (NoSecondaryGenre, 1000000, 4.3))
+39  0.066511                                    ((Price, 1000000, 4.2))
+
+Résultat 2 pour Installs>=1000000, Reviews>=0, Ratings>=4, GenreSec=False:
+    support                 itemsets
+6  0.069789  ((Price, 1000000, 4.3))
+7  0.068384  ((Price, 1000000, 4.4))
+5  0.066511  ((Price, 1000000, 4.2))
+8  0.056674  ((Price, 1000000, 4.5))
+4  0.054801  ((Price, 1000000, 4.1))
+
+Résultat 3 pour Installs>=1000000, Reviews>=0, Ratings>=4.5, GenreSec=True:
+      support                                                   itemsets
+57   0.169468                                    ((Price, 1000000, 4.5))
+37   0.156863                         ((NoSecondaryGenre, 1000000, 4.5))
+163  0.154062  ((Price, 1000000, 4.5), (NoSecondaryGenre, 1000000, 4.5))
+58   0.130252                                    ((Price, 1000000, 4.6))
+65   0.128852                                   ((Price, 10000000, 4.5))
+
+Résultat 4 pour Installs>=1000000, Reviews>=0, Ratings>=4.5, GenreSec=False:
+     support                  itemsets
+32  0.169468   ((Price, 1000000, 4.5))
+33  0.130252   ((Price, 1000000, 4.6))
+40  0.128852  ((Price, 10000000, 4.5))
+41  0.089636  ((Price, 10000000, 4.6))
+37  0.079832   ((Price, 5000000, 4.5))
+
+Résultat 5 pour Installs>=1000000, Reviews>=100, Ratings>=4, GenreSec=True:
+      support                                                     itemsets
+74   0.072131                                    ((Reviews, 1000000, 4.3))
+75   0.070726                                    ((Reviews, 1000000, 4.4))
+40   0.069789                                      ((Price, 1000000, 4.3))
+192  0.069789             ((Price, 1000000, 4.3), (Reviews, 1000000, 4.3))
+125  0.068852  ((NoSecondaryGenre, 1000000, 4.3), (Reviews, 1000000, 4.3))
+
+Résultat 6 pour Installs>=1000000, Reviews>=100, Ratings>=4, GenreSec=False:
+     support                                          itemsets
+40  0.072131                         ((Reviews, 1000000, 4.3))
+41  0.070726                         ((Reviews, 1000000, 4.4))
+84  0.069789  ((Price, 1000000, 4.3), (Reviews, 1000000, 4.3))
+6   0.069789                           ((Price, 1000000, 4.3))
+7   0.068384                           ((Price, 1000000, 4.4))
+
+Résultat 7 pour Installs>=1000000, Reviews>=100, Ratings>=4.5, GenreSec=True:
+      support                                                     itemsets
+78   0.170868                                    ((Reviews, 1000000, 4.5))
+57   0.169468                                      ((Price, 1000000, 4.5))
+277  0.168067             ((Reviews, 1000000, 4.5), (Price, 1000000, 4.5))
+37   0.156863                           ((NoSecondaryGenre, 1000000, 4.5))
+220  0.155462  ((Reviews, 1000000, 4.5), (NoSecondaryGenre, 1000000, 4.5))
+
+Résultat 8 pour Installs>=1000000, Reviews>=100, Ratings>=4.5, GenreSec=False:
+      support                                          itemsets
+53   0.170868                         ((Reviews, 1000000, 4.5))
+32   0.169468                           ((Price, 1000000, 4.5))
+153  0.168067  ((Reviews, 1000000, 4.5), (Price, 1000000, 4.5))
+54   0.135854                         ((Reviews, 1000000, 4.6))
+158  0.130252  ((Price, 1000000, 4.6), (Reviews, 1000000, 4.6))
+
+Résultat 9 pour Installs>=1000000, Reviews>=500, Ratings>=4, GenreSec=True:
+      support                                          itemsets
+74   0.071663                         ((Reviews, 1000000, 4.3))
+75   0.070726                         ((Reviews, 1000000, 4.4))
+40   0.069789                           ((Price, 1000000, 4.3))
+192  0.069321  ((Price, 1000000, 4.3), (Reviews, 1000000, 4.3))
+6    0.068852                ((NoSecondaryGenre, 1000000, 4.3))
+
+Résultat 10 pour Installs>=1000000, Reviews>=500, Ratings>=4, GenreSec=False:
+     support                                          itemsets
+40  0.071663                         ((Reviews, 1000000, 4.3))
+41  0.070726                         ((Reviews, 1000000, 4.4))
+6   0.069789                           ((Price, 1000000, 4.3))
+84  0.069321  ((Price, 1000000, 4.3), (Reviews, 1000000, 4.3))
+86  0.068384  ((Reviews, 1000000, 4.4), (Price, 1000000, 4.4))
+
+Résultat 11 pour Installs>=1000000, Reviews>=500, Ratings>=4.5, GenreSec=True:
+      support                                                     itemsets
+78   0.170868                                    ((Reviews, 1000000, 4.5))
+57   0.169468                                      ((Price, 1000000, 4.5))
+277  0.168067             ((Reviews, 1000000, 4.5), (Price, 1000000, 4.5))
+37   0.156863                           ((NoSecondaryGenre, 1000000, 4.5))
+220  0.155462  ((Reviews, 1000000, 4.5), (NoSecondaryGenre, 1000000, 4.5))
+
+Résultat 12 pour Installs>=1000000, Reviews>=500, Ratings>=4.5, GenreSec=False:
+      support                                          itemsets
+53   0.170868                         ((Reviews, 1000000, 4.5))
+32   0.169468                           ((Price, 1000000, 4.5))
+153  0.168067  ((Reviews, 1000000, 4.5), (Price, 1000000, 4.5))
+54   0.134454                         ((Reviews, 1000000, 4.6))
+33   0.130252                           ((Price, 1000000, 4.6))
+
+Résultat 13 pour Installs>=1000000, Reviews>=1000, Ratings>=4, GenreSec=True:
+      support                                          itemsets
+74   0.071194                         ((Reviews, 1000000, 4.3))
+75   0.070258                         ((Reviews, 1000000, 4.4))
+40   0.069789                           ((Price, 1000000, 4.3))
+6    0.068852                ((NoSecondaryGenre, 1000000, 4.3))
+192  0.068852  ((Price, 1000000, 4.3), (Reviews, 1000000, 4.3))
+
+Résultat 14 pour Installs>=1000000, Reviews>=1000, Ratings>=4, GenreSec=False:
+     support                                          itemsets
+40  0.071194                         ((Reviews, 1000000, 4.3))
+41  0.070258                         ((Reviews, 1000000, 4.4))
+6   0.069789                           ((Price, 1000000, 4.3))
+84  0.068852  ((Price, 1000000, 4.3), (Reviews, 1000000, 4.3))
+7   0.068384                           ((Price, 1000000, 4.4))
+
+Résultat 15 pour Installs>=1000000, Reviews>=1000, Ratings>=4.5, GenreSec=True:
+      support                                                     itemsets
+78   0.170868                                    ((Reviews, 1000000, 4.5))
+57   0.169468                                      ((Price, 1000000, 4.5))
+277  0.168067             ((Reviews, 1000000, 4.5), (Price, 1000000, 4.5))
+37   0.156863                           ((NoSecondaryGenre, 1000000, 4.5))
+220  0.155462  ((Reviews, 1000000, 4.5), (NoSecondaryGenre, 1000000, 4.5))
+
+Résultat 16 pour Installs>=1000000, Reviews>=1000, Ratings>=4.5, GenreSec=False:
+      support                                          itemsets
+53   0.170868                         ((Reviews, 1000000, 4.5))
+32   0.169468                           ((Price, 1000000, 4.5))
+153  0.168067  ((Reviews, 1000000, 4.5), (Price, 1000000, 4.5))
+54   0.134454                         ((Reviews, 1000000, 4.6))
+33   0.130252                           ((Price, 1000000, 4.6))
+
+Résultat 17 pour Installs>=1000000, Reviews>=1500, Ratings>=4, GenreSec=True:
+      support                                          itemsets
+74   0.071194                         ((Reviews, 1000000, 4.3))
+75   0.069789                         ((Reviews, 1000000, 4.4))
+40   0.069789                           ((Price, 1000000, 4.3))
+6    0.068852                ((NoSecondaryGenre, 1000000, 4.3))
+192  0.068852  ((Price, 1000000, 4.3), (Reviews, 1000000, 4.3))
+
+Résultat 18 pour Installs>=1000000, Reviews>=1500, Ratings>=4, GenreSec=False:
+     support                                          itemsets
+40  0.071194                         ((Reviews, 1000000, 4.3))
+6   0.069789                           ((Price, 1000000, 4.3))
+41  0.069789                         ((Reviews, 1000000, 4.4))
+84  0.068852  ((Price, 1000000, 4.3), (Reviews, 1000000, 4.3))
+7   0.068384                           ((Price, 1000000, 4.4))
+
+Résultat 19 pour Installs>=1000000, Reviews>=1500, Ratings>=4.5, GenreSec=True:
+      support                                                     itemsets
+78   0.170868                                    ((Reviews, 1000000, 4.5))
+57   0.169468                                      ((Price, 1000000, 4.5))
+277  0.168067             ((Reviews, 1000000, 4.5), (Price, 1000000, 4.5))
+37   0.156863                           ((NoSecondaryGenre, 1000000, 4.5))
+220  0.155462  ((Reviews, 1000000, 4.5), (NoSecondaryGenre, 1000000, 4.5))
+
+Résultat 20 pour Installs>=1000000, Reviews>=1500, Ratings>=4.5, GenreSec=False:
+      support                                          itemsets
+53   0.170868                         ((Reviews, 1000000, 4.5))
+32   0.169468                           ((Price, 1000000, 4.5))
+153  0.168067  ((Reviews, 1000000, 4.5), (Price, 1000000, 4.5))
+54   0.133053                         ((Reviews, 1000000, 4.6))
+33   0.130252                           ((Price, 1000000, 4.6))
+
+Résultat 21 pour Installs>=1000000, Reviews>=30000, Ratings>=4, GenreSec=True:
+      support                                                   itemsets
+40   0.069789                                    ((Price, 1000000, 4.3))
+6    0.068852                         ((NoSecondaryGenre, 1000000, 4.3))
+41   0.068384                                    ((Price, 1000000, 4.4))
+123  0.066979  ((Price, 1000000, 4.3), (NoSecondaryGenre, 1000000, 4.3))
+39   0.066511                                    ((Price, 1000000, 4.2))
+
+Résultat 22 pour Installs>=1000000, Reviews>=30000, Ratings>=4, GenreSec=False:
+    support                 itemsets
+6  0.069789  ((Price, 1000000, 4.3))
+7  0.068384  ((Price, 1000000, 4.4))
+5  0.066511  ((Price, 1000000, 4.2))
+8  0.056674  ((Price, 1000000, 4.5))
+4  0.054801  ((Price, 1000000, 4.1))
+
+Résultat 23 pour Installs>=1000000, Reviews>=30000, Ratings>=4.5, GenreSec=True:
+      support                                                   itemsets
+57   0.169468                                    ((Price, 1000000, 4.5))
+37   0.156863                         ((NoSecondaryGenre, 1000000, 4.5))
+198  0.154062  ((Price, 1000000, 4.5), (NoSecondaryGenre, 1000000, 4.5))
+58   0.130252                                    ((Price, 1000000, 4.6))
+65   0.128852                                   ((Price, 10000000, 4.5))
+
+Résultat 24 pour Installs>=1000000, Reviews>=30000, Ratings>=4.5, GenreSec=False:
+      support                                            itemsets
+32   0.169468                             ((Price, 1000000, 4.5))
+33   0.130252                             ((Price, 1000000, 4.6))
+40   0.128852                            ((Price, 10000000, 4.5))
+157  0.127451  ((Reviews, 10000000, 4.5), (Price, 10000000, 4.5))
+61   0.127451                          ((Reviews, 10000000, 4.5))
+
+Résultat 25 pour Installs>=10000000, Reviews>=0, Ratings>=4, GenreSec=True:
+      support                                                     itemsets
+67   0.130877                                     ((Price, 10000000, 4.4))
+186  0.121982  ((NoSecondaryGenre, 10000000, 4.4), (Price, 10000000, 4.4))
+37   0.121982                          ((NoSecondaryGenre, 10000000, 4.4))
+68   0.116900                                     ((Price, 10000000, 4.5))
+66   0.110546                                     ((Price, 10000000, 4.3))
+
+Résultat 26 pour Installs>=10000000, Reviews>=0, Ratings>=4, GenreSec=False:
+     support                  itemsets
+40  0.130877  ((Price, 10000000, 4.4))
+41  0.116900  ((Price, 10000000, 4.5))
+39  0.110546  ((Price, 10000000, 4.3))
+38  0.099111  ((Price, 10000000, 4.2))
+37  0.083863  ((Price, 10000000, 4.1))
+
+Résultat 27 pour Installs>=10000000, Reviews>=0, Ratings>=4.5, GenreSec=True:
+      support                                                     itemsets
+50   0.327402                                     ((Price, 10000000, 4.5))
+34   0.302491                          ((NoSecondaryGenre, 10000000, 4.5))
+153  0.302491  ((NoSecondaryGenre, 10000000, 4.5), (Price, 10000000, 4.5))
+51   0.227758                                     ((Price, 10000000, 4.6))
+35   0.227758                          ((NoSecondaryGenre, 10000000, 4.6))
+
+Résultat 28 pour Installs>=10000000, Reviews>=0, Ratings>=4.5, GenreSec=False:
+     support                   itemsets
+37  0.327402   ((Price, 10000000, 4.5))
+38  0.227758   ((Price, 10000000, 4.6))
+39  0.117438   ((Price, 10000000, 4.7))
+44  0.092527  ((Price, 100000000, 4.5))
+41  0.064057   ((Price, 50000000, 4.5))
+
+Résultat 29 pour Installs>=10000000, Reviews>=100, Ratings>=4, GenreSec=True:
+      support  \
+93   0.130877   
+67   0.130877   
+324  0.130877   
+37   0.121982   
+497  0.121982   
+
+                                                                                  itemsets  
+93                                                              ((Reviews, 10000000, 4.4))  
+67                                                                ((Price, 10000000, 4.4))  
+324                                     ((Reviews, 10000000, 4.4), (Price, 10000000, 4.4))  
+37                                                     ((NoSecondaryGenre, 10000000, 4.4))  
+497  ((NoSecondaryGenre, 10000000, 4.4), (Reviews, 10000000, 4.4), (Price, 10000000, 4.4))  
+
+Résultat 30 pour Installs>=10000000, Reviews>=100, Ratings>=4, GenreSec=False:
+      support                                            itemsets
+40   0.130877                            ((Price, 10000000, 4.4))
+188  0.130877  ((Reviews, 10000000, 4.4), (Price, 10000000, 4.4))
+66   0.130877                          ((Reviews, 10000000, 4.4))
+41   0.116900                            ((Price, 10000000, 4.5))
+194  0.116900  ((Reviews, 10000000, 4.5), (Price, 10000000, 4.5))
+
+Résultat 31 pour Installs>=10000000, Reviews>=100, Ratings>=4.5, GenreSec=True:
+      support  \
+65   0.327402   
+260  0.327402   
+50   0.327402   
+34   0.302491   
+423  0.302491   
+
+                                                                                  itemsets  
+65                                                              ((Reviews, 10000000, 4.5))  
+260                                     ((Reviews, 10000000, 4.5), (Price, 10000000, 4.5))  
+50                                                                ((Price, 10000000, 4.5))  
+34                                                     ((NoSecondaryGenre, 10000000, 4.5))  
+423  ((NoSecondaryGenre, 10000000, 4.5), (Reviews, 10000000, 4.5), (Price, 10000000, 4.5))  
+
+Résultat 32 pour Installs>=10000000, Reviews>=100, Ratings>=4.5, GenreSec=False:
+      support                                            itemsets
+52   0.327402                          ((Reviews, 10000000, 4.5))
+37   0.327402                            ((Price, 10000000, 4.5))
+156  0.327402  ((Reviews, 10000000, 4.5), (Price, 10000000, 4.5))
+53   0.231317                          ((Reviews, 10000000, 4.6))
+38   0.227758                            ((Price, 10000000, 4.6))
+
+Résultat 33 pour Installs>=10000000, Reviews>=500, Ratings>=4, GenreSec=True:
+      support  \
+93   0.130877   
+67   0.130877   
+324  0.130877   
+37   0.121982   
+497  0.121982   
+
+                                                                                  itemsets  
+93                                                              ((Reviews, 10000000, 4.4))  
+67                                                                ((Price, 10000000, 4.4))  
+324                                     ((Reviews, 10000000, 4.4), (Price, 10000000, 4.4))  
+37                                                     ((NoSecondaryGenre, 10000000, 4.4))  
+497  ((NoSecondaryGenre, 10000000, 4.4), (Reviews, 10000000, 4.4), (Price, 10000000, 4.4))  
+
+Résultat 34 pour Installs>=10000000, Reviews>=500, Ratings>=4, GenreSec=False:
+      support                                            itemsets
+40   0.130877                            ((Price, 10000000, 4.4))
+188  0.130877  ((Reviews, 10000000, 4.4), (Price, 10000000, 4.4))
+66   0.130877                          ((Reviews, 10000000, 4.4))
+41   0.116900                            ((Price, 10000000, 4.5))
+194  0.116900  ((Reviews, 10000000, 4.5), (Price, 10000000, 4.5))
+
+Résultat 35 pour Installs>=10000000, Reviews>=500, Ratings>=4.5, GenreSec=True:
+      support  \
+65   0.327402   
+260  0.327402   
+50   0.327402   
+34   0.302491   
+423  0.302491   
+
+                                                                                  itemsets  
+65                                                              ((Reviews, 10000000, 4.5))  
+260                                     ((Reviews, 10000000, 4.5), (Price, 10000000, 4.5))  
+50                                                                ((Price, 10000000, 4.5))  
+34                                                     ((NoSecondaryGenre, 10000000, 4.5))  
+423  ((NoSecondaryGenre, 10000000, 4.5), (Reviews, 10000000, 4.5), (Price, 10000000, 4.5))  
+
+Résultat 36 pour Installs>=10000000, Reviews>=500, Ratings>=4.5, GenreSec=False:
+      support                                            itemsets
+52   0.327402                          ((Reviews, 10000000, 4.5))
+37   0.327402                            ((Price, 10000000, 4.5))
+156  0.327402  ((Reviews, 10000000, 4.5), (Price, 10000000, 4.5))
+53   0.231317                          ((Reviews, 10000000, 4.6))
+38   0.227758                            ((Price, 10000000, 4.6))
+
+Résultat 37 pour Installs>=10000000, Reviews>=1000, Ratings>=4, GenreSec=True:
+      support  \
+93   0.130877   
+67   0.130877   
+324  0.130877   
+37   0.121982   
+497  0.121982   
+
+                                                                                  itemsets  
+93                                                              ((Reviews, 10000000, 4.4))  
+67                                                                ((Price, 10000000, 4.4))  
+324                                     ((Reviews, 10000000, 4.4), (Price, 10000000, 4.4))  
+37                                                     ((NoSecondaryGenre, 10000000, 4.4))  
+497  ((NoSecondaryGenre, 10000000, 4.4), (Reviews, 10000000, 4.4), (Price, 10000000, 4.4))  
+
+Résultat 38 pour Installs>=10000000, Reviews>=1000, Ratings>=4, GenreSec=False:
+      support                                            itemsets
+40   0.130877                            ((Price, 10000000, 4.4))
+188  0.130877  ((Reviews, 10000000, 4.4), (Price, 10000000, 4.4))
+66   0.130877                          ((Reviews, 10000000, 4.4))
+41   0.116900                            ((Price, 10000000, 4.5))
+194  0.116900  ((Reviews, 10000000, 4.5), (Price, 10000000, 4.5))
+
+Résultat 39 pour Installs>=10000000, Reviews>=1000, Ratings>=4.5, GenreSec=True:
+      support  \
+65   0.327402   
+260  0.327402   
+50   0.327402   
+34   0.302491   
+423  0.302491   
+
+                                                                                  itemsets  
+65                                                              ((Reviews, 10000000, 4.5))  
+260                                     ((Reviews, 10000000, 4.5), (Price, 10000000, 4.5))  
+50                                                                ((Price, 10000000, 4.5))  
+34                                                     ((NoSecondaryGenre, 10000000, 4.5))  
+423  ((NoSecondaryGenre, 10000000, 4.5), (Reviews, 10000000, 4.5), (Price, 10000000, 4.5))  
+
+Résultat 40 pour Installs>=10000000, Reviews>=1000, Ratings>=4.5, GenreSec=False:
+      support                                            itemsets
+52   0.327402                          ((Reviews, 10000000, 4.5))
+37   0.327402                            ((Price, 10000000, 4.5))
+156  0.327402  ((Reviews, 10000000, 4.5), (Price, 10000000, 4.5))
+53   0.231317                          ((Reviews, 10000000, 4.6))
+38   0.227758                            ((Price, 10000000, 4.6))
+
+Résultat 41 pour Installs>=10000000, Reviews>=1500, Ratings>=4, GenreSec=True:
+      support  \
+93   0.130877   
+67   0.130877   
+324  0.130877   
+37   0.121982   
+497  0.121982   
+
+                                                                                  itemsets  
+93                                                              ((Reviews, 10000000, 4.4))  
+67                                                                ((Price, 10000000, 4.4))  
+324                                     ((Reviews, 10000000, 4.4), (Price, 10000000, 4.4))  
+37                                                     ((NoSecondaryGenre, 10000000, 4.4))  
+497  ((NoSecondaryGenre, 10000000, 4.4), (Reviews, 10000000, 4.4), (Price, 10000000, 4.4))  
+
+Résultat 42 pour Installs>=10000000, Reviews>=1500, Ratings>=4, GenreSec=False:
+      support                                            itemsets
+40   0.130877                            ((Price, 10000000, 4.4))
+188  0.130877  ((Reviews, 10000000, 4.4), (Price, 10000000, 4.4))
+66   0.130877                          ((Reviews, 10000000, 4.4))
+41   0.116900                            ((Price, 10000000, 4.5))
+194  0.116900  ((Reviews, 10000000, 4.5), (Price, 10000000, 4.5))
+
+Résultat 43 pour Installs>=10000000, Reviews>=1500, Ratings>=4.5, GenreSec=True:
+      support  \
+65   0.327402   
+260  0.327402   
+50   0.327402   
+34   0.302491   
+423  0.302491   
+
+                                                                                  itemsets  
+65                                                              ((Reviews, 10000000, 4.5))  
+260                                     ((Reviews, 10000000, 4.5), (Price, 10000000, 4.5))  
+50                                                                ((Price, 10000000, 4.5))  
+34                                                     ((NoSecondaryGenre, 10000000, 4.5))  
+423  ((NoSecondaryGenre, 10000000, 4.5), (Reviews, 10000000, 4.5), (Price, 10000000, 4.5))  
+
+Résultat 44 pour Installs>=10000000, Reviews>=1500, Ratings>=4.5, GenreSec=False:
+      support                                            itemsets
+52   0.327402                          ((Reviews, 10000000, 4.5))
+37   0.327402                            ((Price, 10000000, 4.5))
+156  0.327402  ((Reviews, 10000000, 4.5), (Price, 10000000, 4.5))
+53   0.231317                          ((Reviews, 10000000, 4.6))
+38   0.227758                            ((Price, 10000000, 4.6))
+
+Résultat 45 pour Installs>=10000000, Reviews>=30000, Ratings>=4, GenreSec=True:
+      support  \
+93   0.130877   
+67   0.130877   
+324  0.130877   
+246  0.121982   
+497  0.121982   
+
+                                                                                  itemsets  
+93                                                              ((Reviews, 10000000, 4.4))  
+67                                                                ((Price, 10000000, 4.4))  
+324                                     ((Reviews, 10000000, 4.4), (Price, 10000000, 4.4))  
+246                            ((NoSecondaryGenre, 10000000, 4.4), (Price, 10000000, 4.4))  
+497  ((NoSecondaryGenre, 10000000, 4.4), (Reviews, 10000000, 4.4), (Price, 10000000, 4.4))  
+
+Résultat 46 pour Installs>=10000000, Reviews>=30000, Ratings>=4, GenreSec=False:
+      support                                            itemsets
+66   0.130877                          ((Reviews, 10000000, 4.4))
+40   0.130877                            ((Price, 10000000, 4.4))
+188  0.130877  ((Reviews, 10000000, 4.4), (Price, 10000000, 4.4))
+41   0.116900                            ((Price, 10000000, 4.5))
+67   0.115629                          ((Reviews, 10000000, 4.5))
+
+Résultat 47 pour Installs>=10000000, Reviews>=30000, Ratings>=4.5, GenreSec=True:
+      support                                                     itemsets
+50   0.327402                                     ((Price, 10000000, 4.5))
+259  0.323843           ((Reviews, 10000000, 4.5), (Price, 10000000, 4.5))
+65   0.323843                                   ((Reviews, 10000000, 4.5))
+34   0.302491                          ((NoSecondaryGenre, 10000000, 4.5))
+195  0.302491  ((NoSecondaryGenre, 10000000, 4.5), (Price, 10000000, 4.5))
+
+Résultat 48 pour Installs>=10000000, Reviews>=30000, Ratings>=4.5, GenreSec=False:
+      support                                            itemsets
+37   0.327402                            ((Price, 10000000, 4.5))
+52   0.323843                          ((Reviews, 10000000, 4.5))
+155  0.323843  ((Reviews, 10000000, 4.5), (Price, 10000000, 4.5))
+38   0.227758                            ((Price, 10000000, 4.6))
+53   0.220641                          ((Reviews, 10000000, 4.6))
+
+Résultat 49 pour Installs>=100000000, Reviews>=0, Ratings>=4, GenreSec=True:
+      support                                                       itemsets
+57   0.254902                                      ((Price, 100000000, 4.5))
+183  0.245098  ((Price, 100000000, 4.5), (NoSecondaryGenre, 100000000, 4.5))
+39   0.245098                           ((NoSecondaryGenre, 100000000, 4.5))
+56   0.215686                                      ((Price, 100000000, 4.4))
+175  0.205882  ((Price, 100000000, 4.4), (NoSecondaryGenre, 100000000, 4.4))
+
+Résultat 50 pour Installs>=100000000, Reviews>=0, Ratings>=4, GenreSec=False:
+     support                   itemsets
+41  0.254902  ((Price, 100000000, 4.5))
+40  0.215686  ((Price, 100000000, 4.4))
+39  0.186275  ((Price, 100000000, 4.3))
+42  0.117647  ((Price, 100000000, 4.6))
+38  0.088235  ((Price, 100000000, 4.2))
+
+Résultat 51 pour Installs>=100000000, Reviews>=0, Ratings>=4.5, GenreSec=True:
+     support                                                       itemsets
+19  0.634146                                      ((Price, 100000000, 4.5))
+58  0.609756  ((Price, 100000000, 4.5), (NoSecondaryGenre, 100000000, 4.5))
+10  0.609756                           ((NoSecondaryGenre, 100000000, 4.5))
+11  0.292683                           ((NoSecondaryGenre, 100000000, 4.6))
+20  0.292683                                      ((Price, 100000000, 4.6))
+
+Résultat 52 pour Installs>=100000000, Reviews>=0, Ratings>=4.5, GenreSec=False:
+     support                                              itemsets
+12  0.634146                             ((Price, 100000000, 4.5))
+13  0.292683                             ((Price, 100000000, 4.6))
+32  0.121951  ((Price, 100000000, 4.5), (Arcade1, 100000000, 4.5))
+3   0.121951                           ((Arcade1, 100000000, 4.5))
+46  0.097561   ((Price, 100000000, 4.5), (Tools1, 100000000, 4.5))
+
+Résultat 53 pour Installs>=100000000, Reviews>=100, Ratings>=4, GenreSec=True:
+      support                                                         itemsets
+297  0.254902             ((Price, 100000000, 4.5), (Reviews, 100000000, 4.5))
+57   0.254902                                        ((Price, 100000000, 4.5))
+79   0.254902                                      ((Reviews, 100000000, 4.5))
+234  0.245098    ((Price, 100000000, 4.5), (NoSecondaryGenre, 100000000, 4.5))
+238  0.245098  ((NoSecondaryGenre, 100000000, 4.5), (Reviews, 100000000, 4.5))
+
+Résultat 54 pour Installs>=100000000, Reviews>=100, Ratings>=4, GenreSec=False:
+      support                                              itemsets
+63   0.254902                           ((Reviews, 100000000, 4.5))
+181  0.254902  ((Price, 100000000, 4.5), (Reviews, 100000000, 4.5))
+41   0.254902                             ((Price, 100000000, 4.5))
+40   0.215686                             ((Price, 100000000, 4.4))
+174  0.215686  ((Price, 100000000, 4.4), (Reviews, 100000000, 4.4))
+
+Résultat 55 pour Installs>=100000000, Reviews>=100, Ratings>=4.5, GenreSec=True:
+      support                                                         itemsets
+19   0.634146                                        ((Price, 100000000, 4.5))
+28   0.634146                                      ((Reviews, 100000000, 4.5))
+108  0.634146             ((Price, 100000000, 4.5), (Reviews, 100000000, 4.5))
+73   0.609756    ((Price, 100000000, 4.5), (NoSecondaryGenre, 100000000, 4.5))
+77   0.609756  ((NoSecondaryGenre, 100000000, 4.5), (Reviews, 100000000, 4.5))
+
+Résultat 56 pour Installs>=100000000, Reviews>=100, Ratings>=4.5, GenreSec=False:
+     support                                              itemsets
+12  0.634146                             ((Price, 100000000, 4.5))
+21  0.634146                           ((Reviews, 100000000, 4.5))
+61  0.634146  ((Price, 100000000, 4.5), (Reviews, 100000000, 4.5))
+22  0.292683                           ((Reviews, 100000000, 4.6))
+67  0.292683  ((Price, 100000000, 4.6), (Reviews, 100000000, 4.6))
+
+Résultat 57 pour Installs>=100000000, Reviews>=500, Ratings>=4, GenreSec=True:
+      support                                                         itemsets
+297  0.254902             ((Price, 100000000, 4.5), (Reviews, 100000000, 4.5))
+57   0.254902                                        ((Price, 100000000, 4.5))
+79   0.254902                                      ((Reviews, 100000000, 4.5))
+234  0.245098    ((Price, 100000000, 4.5), (NoSecondaryGenre, 100000000, 4.5))
+238  0.245098  ((NoSecondaryGenre, 100000000, 4.5), (Reviews, 100000000, 4.5))
+
+Résultat 58 pour Installs>=100000000, Reviews>=500, Ratings>=4, GenreSec=False:
+      support                                              itemsets
+63   0.254902                           ((Reviews, 100000000, 4.5))
+181  0.254902  ((Price, 100000000, 4.5), (Reviews, 100000000, 4.5))
+41   0.254902                             ((Price, 100000000, 4.5))
+40   0.215686                             ((Price, 100000000, 4.4))
+174  0.215686  ((Price, 100000000, 4.4), (Reviews, 100000000, 4.4))
+
+Résultat 59 pour Installs>=100000000, Reviews>=500, Ratings>=4.5, GenreSec=True:
+      support                                                         itemsets
+19   0.634146                                        ((Price, 100000000, 4.5))
+28   0.634146                                      ((Reviews, 100000000, 4.5))
+108  0.634146             ((Price, 100000000, 4.5), (Reviews, 100000000, 4.5))
+73   0.609756    ((Price, 100000000, 4.5), (NoSecondaryGenre, 100000000, 4.5))
+77   0.609756  ((NoSecondaryGenre, 100000000, 4.5), (Reviews, 100000000, 4.5))
+
+Résultat 60 pour Installs>=100000000, Reviews>=500, Ratings>=4.5, GenreSec=False:
+     support                                              itemsets
+12  0.634146                             ((Price, 100000000, 4.5))
+21  0.634146                           ((Reviews, 100000000, 4.5))
+61  0.634146  ((Price, 100000000, 4.5), (Reviews, 100000000, 4.5))
+22  0.292683                           ((Reviews, 100000000, 4.6))
+67  0.292683  ((Price, 100000000, 4.6), (Reviews, 100000000, 4.6))
+
+Résultat 61 pour Installs>=100000000, Reviews>=1000, Ratings>=4, GenreSec=True:
+      support                                                         itemsets
+297  0.254902             ((Price, 100000000, 4.5), (Reviews, 100000000, 4.5))
+57   0.254902                                        ((Price, 100000000, 4.5))
+79   0.254902                                      ((Reviews, 100000000, 4.5))
+234  0.245098    ((Price, 100000000, 4.5), (NoSecondaryGenre, 100000000, 4.5))
+238  0.245098  ((NoSecondaryGenre, 100000000, 4.5), (Reviews, 100000000, 4.5))
+
+Résultat 62 pour Installs>=100000000, Reviews>=1000, Ratings>=4, GenreSec=False:
+      support                                              itemsets
+63   0.254902                           ((Reviews, 100000000, 4.5))
+181  0.254902  ((Price, 100000000, 4.5), (Reviews, 100000000, 4.5))
+41   0.254902                             ((Price, 100000000, 4.5))
+40   0.215686                             ((Price, 100000000, 4.4))
+174  0.215686  ((Price, 100000000, 4.4), (Reviews, 100000000, 4.4))
+
+Résultat 63 pour Installs>=100000000, Reviews>=1000, Ratings>=4.5, GenreSec=True:
+      support                                                         itemsets
+19   0.634146                                        ((Price, 100000000, 4.5))
+28   0.634146                                      ((Reviews, 100000000, 4.5))
+108  0.634146             ((Price, 100000000, 4.5), (Reviews, 100000000, 4.5))
+73   0.609756    ((Price, 100000000, 4.5), (NoSecondaryGenre, 100000000, 4.5))
+77   0.609756  ((NoSecondaryGenre, 100000000, 4.5), (Reviews, 100000000, 4.5))
+
+Résultat 64 pour Installs>=100000000, Reviews>=1000, Ratings>=4.5, GenreSec=False:
+     support                                              itemsets
+12  0.634146                             ((Price, 100000000, 4.5))
+21  0.634146                           ((Reviews, 100000000, 4.5))
+61  0.634146  ((Price, 100000000, 4.5), (Reviews, 100000000, 4.5))
+22  0.292683                           ((Reviews, 100000000, 4.6))
+67  0.292683  ((Price, 100000000, 4.6), (Reviews, 100000000, 4.6))
+
+Résultat 65 pour Installs>=100000000, Reviews>=1500, Ratings>=4, GenreSec=True:
+      support                                                         itemsets
+297  0.254902             ((Price, 100000000, 4.5), (Reviews, 100000000, 4.5))
+57   0.254902                                        ((Price, 100000000, 4.5))
+79   0.254902                                      ((Reviews, 100000000, 4.5))
+234  0.245098    ((Price, 100000000, 4.5), (NoSecondaryGenre, 100000000, 4.5))
+238  0.245098  ((NoSecondaryGenre, 100000000, 4.5), (Reviews, 100000000, 4.5))
+
+Résultat 66 pour Installs>=100000000, Reviews>=1500, Ratings>=4, GenreSec=False:
+      support                                              itemsets
+63   0.254902                           ((Reviews, 100000000, 4.5))
+181  0.254902  ((Price, 100000000, 4.5), (Reviews, 100000000, 4.5))
+41   0.254902                             ((Price, 100000000, 4.5))
+40   0.215686                             ((Price, 100000000, 4.4))
+174  0.215686  ((Price, 100000000, 4.4), (Reviews, 100000000, 4.4))
+
+Résultat 67 pour Installs>=100000000, Reviews>=1500, Ratings>=4.5, GenreSec=True:
+      support                                                         itemsets
+19   0.634146                                        ((Price, 100000000, 4.5))
+28   0.634146                                      ((Reviews, 100000000, 4.5))
+108  0.634146             ((Price, 100000000, 4.5), (Reviews, 100000000, 4.5))
+73   0.609756    ((Price, 100000000, 4.5), (NoSecondaryGenre, 100000000, 4.5))
+77   0.609756  ((NoSecondaryGenre, 100000000, 4.5), (Reviews, 100000000, 4.5))
+
+Résultat 68 pour Installs>=100000000, Reviews>=1500, Ratings>=4.5, GenreSec=False:
+     support                                              itemsets
+12  0.634146                             ((Price, 100000000, 4.5))
+21  0.634146                           ((Reviews, 100000000, 4.5))
+61  0.634146  ((Price, 100000000, 4.5), (Reviews, 100000000, 4.5))
+22  0.292683                           ((Reviews, 100000000, 4.6))
+67  0.292683  ((Price, 100000000, 4.6), (Reviews, 100000000, 4.6))
+
+Résultat 69 pour Installs>=100000000, Reviews>=30000, Ratings>=4, GenreSec=True:
+      support                                                         itemsets
+297  0.254902             ((Price, 100000000, 4.5), (Reviews, 100000000, 4.5))
+79   0.254902                                      ((Reviews, 100000000, 4.5))
+57   0.254902                                        ((Price, 100000000, 4.5))
+238  0.245098  ((NoSecondaryGenre, 100000000, 4.5), (Reviews, 100000000, 4.5))
+39   0.245098                             ((NoSecondaryGenre, 100000000, 4.5))
+
+Résultat 70 pour Installs>=100000000, Reviews>=30000, Ratings>=4, GenreSec=False:
+      support                                              itemsets
+63   0.254902                           ((Reviews, 100000000, 4.5))
+181  0.254902  ((Price, 100000000, 4.5), (Reviews, 100000000, 4.5))
+41   0.254902                             ((Price, 100000000, 4.5))
+40   0.215686                             ((Price, 100000000, 4.4))
+174  0.205882  ((Price, 100000000, 4.4), (Reviews, 100000000, 4.4))
+
+Résultat 71 pour Installs>=100000000, Reviews>=30000, Ratings>=4.5, GenreSec=True:
+      support                                                         itemsets
+19   0.634146                                        ((Price, 100000000, 4.5))
+28   0.634146                                      ((Reviews, 100000000, 4.5))
+108  0.634146             ((Price, 100000000, 4.5), (Reviews, 100000000, 4.5))
+73   0.609756    ((Price, 100000000, 4.5), (NoSecondaryGenre, 100000000, 4.5))
+77   0.609756  ((NoSecondaryGenre, 100000000, 4.5), (Reviews, 100000000, 4.5))
+
+Résultat 72 pour Installs>=100000000, Reviews>=30000, Ratings>=4.5, GenreSec=False:
+     support                                              itemsets
+12  0.634146                             ((Price, 100000000, 4.5))
+21  0.634146                           ((Reviews, 100000000, 4.5))
+61  0.634146  ((Price, 100000000, 4.5), (Reviews, 100000000, 4.5))
+22  0.292683                           ((Reviews, 100000000, 4.6))
+67  0.292683  ((Price, 100000000, 4.6), (Reviews, 100000000, 4.6))
+

@@ -1,0 +1,309 @@
+Résultat 1 pour Installs>=1000000, Ratings>=0:
+      antecedents     consequents  antecedent support  consequent support  \
+16  (Creativity2)    (Creativity)            0.006079            0.006079   
+17   (Creativity)   (Creativity2)            0.006079            0.006079   
+20   (Education2)     (Education)            0.008359            0.008359   
+19    (Education)    (Education2)            0.008359            0.008359   
+7   (Brain Games)  (Brain Games2)            0.009878            0.009878   
+
+     support  confidence        lift  leverage  conviction  zhangs_metric  
+16  0.006079         1.0  164.500000  0.006042         inf            1.0  
+17  0.006079         1.0  164.500000  0.006042         inf            1.0  
+20  0.008359         1.0  119.636364  0.008289         inf            1.0  
+19  0.008359         1.0  119.636364  0.008289         inf            1.0  
+7   0.009878         1.0  101.230769  0.009781         inf            1.0  
+
+Résultat 2 pour Installs>=1000000, Ratings>=4:
+      antecedents     consequents  antecedent support  consequent support  \
+16  (Creativity2)    (Creativity)            0.006079            0.006079   
+17   (Creativity)   (Creativity2)            0.006079            0.006079   
+20   (Education2)     (Education)            0.008359            0.008359   
+19    (Education)    (Education2)            0.008359            0.008359   
+7   (Brain Games)  (Brain Games2)            0.009878            0.009878   
+
+     support  confidence        lift  leverage  conviction  zhangs_metric  
+16  0.006079         1.0  164.500000  0.006042         inf            1.0  
+17  0.006079         1.0  164.500000  0.006042         inf            1.0  
+20  0.008359         1.0  119.636364  0.008289         inf            1.0  
+19  0.008359         1.0  119.636364  0.008289         inf            1.0  
+7   0.009878         1.0  101.230769  0.009781         inf            1.0  
+
+Résultat 3 pour Installs>=1000000, Ratings>=4.5:
+      antecedents     consequents  antecedent support  consequent support  \
+16  (Creativity2)    (Creativity)            0.006079            0.006079   
+17   (Creativity)   (Creativity2)            0.006079            0.006079   
+20   (Education2)     (Education)            0.008359            0.008359   
+19    (Education)    (Education2)            0.008359            0.008359   
+7   (Brain Games)  (Brain Games2)            0.009878            0.009878   
+
+     support  confidence        lift  leverage  conviction  zhangs_metric  
+16  0.006079         1.0  164.500000  0.006042         inf            1.0  
+17  0.006079         1.0  164.500000  0.006042         inf            1.0  
+20  0.008359         1.0  119.636364  0.008289         inf            1.0  
+19  0.008359         1.0  119.636364  0.008289         inf            1.0  
+7   0.009878         1.0  101.230769  0.009781         inf            1.0  
+
+Résultat 4 pour Installs>=5000000, Ratings>=0:
+                 antecedents               consequents  antecedent support  \
+7              (Brain Games)            (Brain Games2)            0.010393   
+8             (Brain Games2)             (Brain Games)            0.010393   
+47           (Pretend Play2)   (Pretend Play, Casual1)            0.013857   
+46            (Pretend Play)  (Pretend Play2, Casual1)            0.013857   
+45  (Pretend Play2, Casual1)            (Pretend Play)            0.006928   
+
+    consequent support   support  confidence       lift  leverage  conviction  \
+7             0.010393  0.010393         1.0  96.222222  0.010285         inf   
+8             0.010393  0.010393         1.0  96.222222  0.010285         inf   
+47            0.006928  0.006928         0.5  72.166667  0.006832    1.986143   
+46            0.006928  0.006928         0.5  72.166667  0.006832    1.986143   
+45            0.013857  0.006928         1.0  72.166667  0.006832         inf   
+
+    zhangs_metric  
+7        1.000000  
+8        1.000000  
+47       1.000000  
+46       1.000000  
+45       0.993023  
+
+Résultat 5 pour Installs>=5000000, Ratings>=4:
+                 antecedents               consequents  antecedent support  \
+7              (Brain Games)            (Brain Games2)            0.010393   
+8             (Brain Games2)             (Brain Games)            0.010393   
+47           (Pretend Play2)   (Pretend Play, Casual1)            0.013857   
+46            (Pretend Play)  (Pretend Play2, Casual1)            0.013857   
+45  (Pretend Play2, Casual1)            (Pretend Play)            0.006928   
+
+    consequent support   support  confidence       lift  leverage  conviction  \
+7             0.010393  0.010393         1.0  96.222222  0.010285         inf   
+8             0.010393  0.010393         1.0  96.222222  0.010285         inf   
+47            0.006928  0.006928         0.5  72.166667  0.006832    1.986143   
+46            0.006928  0.006928         0.5  72.166667  0.006832    1.986143   
+45            0.013857  0.006928         1.0  72.166667  0.006832         inf   
+
+    zhangs_metric  
+7        1.000000  
+8        1.000000  
+47       1.000000  
+46       1.000000  
+45       0.993023  
+
+Résultat 6 pour Installs>=5000000, Ratings>=4.5:
+                 antecedents               consequents  antecedent support  \
+7              (Brain Games)            (Brain Games2)            0.010393   
+8             (Brain Games2)             (Brain Games)            0.010393   
+47           (Pretend Play2)   (Pretend Play, Casual1)            0.013857   
+46            (Pretend Play)  (Pretend Play2, Casual1)            0.013857   
+45  (Pretend Play2, Casual1)            (Pretend Play)            0.006928   
+
+    consequent support   support  confidence       lift  leverage  conviction  \
+7             0.010393  0.010393         1.0  96.222222  0.010285         inf   
+8             0.010393  0.010393         1.0  96.222222  0.010285         inf   
+47            0.006928  0.006928         0.5  72.166667  0.006832    1.986143   
+46            0.006928  0.006928         0.5  72.166667  0.006832    1.986143   
+45            0.013857  0.006928         1.0  72.166667  0.006832         inf   
+
+    zhangs_metric  
+7        1.000000  
+8        1.000000  
+47       1.000000  
+46       1.000000  
+45       0.993023  
+
+Résultat 7 pour Installs>=10000000, Ratings>=0:
+              antecedents            consequents  antecedent support  \
+24        (Pretend Play2)         (Pretend Play)            0.009174   
+23         (Pretend Play)        (Pretend Play2)            0.009174   
+1    (Action & Adventure)  (Action & Adventure2)            0.018349   
+0   (Action & Adventure2)   (Action & Adventure)            0.018349   
+4                (Board1)     (NoSecondaryGenre)            0.009174   
+
+    consequent support   support  confidence        lift  leverage  \
+24            0.009174  0.009174         1.0  109.000000  0.009090   
+23            0.009174  0.009174         1.0  109.000000  0.009090   
+1             0.018349  0.018349         1.0   54.500000  0.018012   
+0             0.018349  0.018349         1.0   54.500000  0.018012   
+4             0.967890  0.009174         1.0    1.033175  0.000295   
+
+    conviction  zhangs_metric  
+24         inf       1.000000  
+23         inf       1.000000  
+1          inf       1.000000  
+0          inf       1.000000  
+4          inf       0.032407  
+
+Résultat 8 pour Installs>=10000000, Ratings>=4:
+              antecedents            consequents  antecedent support  \
+24        (Pretend Play2)         (Pretend Play)            0.009174   
+23         (Pretend Play)        (Pretend Play2)            0.009174   
+1    (Action & Adventure)  (Action & Adventure2)            0.018349   
+0   (Action & Adventure2)   (Action & Adventure)            0.018349   
+4                (Board1)     (NoSecondaryGenre)            0.009174   
+
+    consequent support   support  confidence        lift  leverage  \
+24            0.009174  0.009174         1.0  109.000000  0.009090   
+23            0.009174  0.009174         1.0  109.000000  0.009090   
+1             0.018349  0.018349         1.0   54.500000  0.018012   
+0             0.018349  0.018349         1.0   54.500000  0.018012   
+4             0.967890  0.009174         1.0    1.033175  0.000295   
+
+    conviction  zhangs_metric  
+24         inf       1.000000  
+23         inf       1.000000  
+1          inf       1.000000  
+0          inf       1.000000  
+4          inf       0.032407  
+
+Résultat 9 pour Installs>=10000000, Ratings>=4.5:
+              antecedents            consequents  antecedent support  \
+24        (Pretend Play2)         (Pretend Play)            0.009174   
+23         (Pretend Play)        (Pretend Play2)            0.009174   
+1    (Action & Adventure)  (Action & Adventure2)            0.018349   
+0   (Action & Adventure2)   (Action & Adventure)            0.018349   
+4                (Board1)     (NoSecondaryGenre)            0.009174   
+
+    consequent support   support  confidence        lift  leverage  \
+24            0.009174  0.009174         1.0  109.000000  0.009090   
+23            0.009174  0.009174         1.0  109.000000  0.009090   
+1             0.018349  0.018349         1.0   54.500000  0.018012   
+0             0.018349  0.018349         1.0   54.500000  0.018012   
+4             0.967890  0.009174         1.0    1.033175  0.000295   
+
+    conviction  zhangs_metric  
+24         inf       1.000000  
+23         inf       1.000000  
+1          inf       1.000000  
+0          inf       1.000000  
+4          inf       0.032407  
+
+Résultat 10 pour Installs>=50000000, Ratings>=0:
+                antecedents              consequents  antecedent support  \
+0     (Action & Adventure2)     (Action & Adventure)            0.009434   
+10           (Brain Games2)            (Brain Games)            0.009434   
+41            (Brain Games)  (Puzzle1, Brain Games2)            0.009434   
+40  (Puzzle1, Brain Games2)            (Brain Games)            0.009434   
+38   (Brain Games, Puzzle1)           (Brain Games2)            0.009434   
+
+    consequent support   support  confidence   lift  leverage  conviction  \
+0             0.009434  0.009434         1.0  106.0  0.009345         inf   
+10            0.009434  0.009434         1.0  106.0  0.009345         inf   
+41            0.009434  0.009434         1.0  106.0  0.009345         inf   
+40            0.009434  0.009434         1.0  106.0  0.009345         inf   
+38            0.009434  0.009434         1.0  106.0  0.009345         inf   
+
+    zhangs_metric  
+0             1.0  
+10            1.0  
+41            1.0  
+40            1.0  
+38            1.0  
+
+Résultat 11 pour Installs>=50000000, Ratings>=4:
+                antecedents              consequents  antecedent support  \
+0     (Action & Adventure2)     (Action & Adventure)            0.009434   
+10           (Brain Games2)            (Brain Games)            0.009434   
+41            (Brain Games)  (Puzzle1, Brain Games2)            0.009434   
+40  (Puzzle1, Brain Games2)            (Brain Games)            0.009434   
+38   (Brain Games, Puzzle1)           (Brain Games2)            0.009434   
+
+    consequent support   support  confidence   lift  leverage  conviction  \
+0             0.009434  0.009434         1.0  106.0  0.009345         inf   
+10            0.009434  0.009434         1.0  106.0  0.009345         inf   
+41            0.009434  0.009434         1.0  106.0  0.009345         inf   
+40            0.009434  0.009434         1.0  106.0  0.009345         inf   
+38            0.009434  0.009434         1.0  106.0  0.009345         inf   
+
+    zhangs_metric  
+0             1.0  
+10            1.0  
+41            1.0  
+40            1.0  
+38            1.0  
+
+Résultat 12 pour Installs>=50000000, Ratings>=4.5:
+                antecedents              consequents  antecedent support  \
+0     (Action & Adventure2)     (Action & Adventure)            0.009434   
+10           (Brain Games2)            (Brain Games)            0.009434   
+41            (Brain Games)  (Puzzle1, Brain Games2)            0.009434   
+40  (Puzzle1, Brain Games2)            (Brain Games)            0.009434   
+38   (Brain Games, Puzzle1)           (Brain Games2)            0.009434   
+
+    consequent support   support  confidence   lift  leverage  conviction  \
+0             0.009434  0.009434         1.0  106.0  0.009345         inf   
+10            0.009434  0.009434         1.0  106.0  0.009345         inf   
+41            0.009434  0.009434         1.0  106.0  0.009345         inf   
+40            0.009434  0.009434         1.0  106.0  0.009345         inf   
+38            0.009434  0.009434         1.0  106.0  0.009345         inf   
+
+    zhangs_metric  
+0             1.0  
+10            1.0  
+41            1.0  
+40            1.0  
+38            1.0  
+
+Résultat 13 pour Installs>=100000000, Ratings>=0:
+           antecedents         consequents  antecedent support  \
+0            (Action1)  (NoSecondaryGenre)                 0.1   
+1            (Arcade1)  (NoSecondaryGenre)                 0.1   
+2            (Casual1)  (NoSecondaryGenre)                 0.2   
+3     (Communication1)  (NoSecondaryGenre)                 0.2   
+4  (Health & Fitness1)  (NoSecondaryGenre)                 0.1   
+
+   consequent support  support  confidence  lift  leverage  conviction  \
+0                 1.0      0.1         1.0   1.0       0.0         inf   
+1                 1.0      0.1         1.0   1.0       0.0         inf   
+2                 1.0      0.2         1.0   1.0       0.0         inf   
+3                 1.0      0.2         1.0   1.0       0.0         inf   
+4                 1.0      0.1         1.0   1.0       0.0         inf   
+
+   zhangs_metric  
+0            0.0  
+1            0.0  
+2            0.0  
+3            0.0  
+4            0.0  
+
+Résultat 14 pour Installs>=100000000, Ratings>=4:
+           antecedents         consequents  antecedent support  \
+0            (Action1)  (NoSecondaryGenre)                 0.1   
+1            (Arcade1)  (NoSecondaryGenre)                 0.1   
+2            (Casual1)  (NoSecondaryGenre)                 0.2   
+3     (Communication1)  (NoSecondaryGenre)                 0.2   
+4  (Health & Fitness1)  (NoSecondaryGenre)                 0.1   
+
+   consequent support  support  confidence  lift  leverage  conviction  \
+0                 1.0      0.1         1.0   1.0       0.0         inf   
+1                 1.0      0.1         1.0   1.0       0.0         inf   
+2                 1.0      0.2         1.0   1.0       0.0         inf   
+3                 1.0      0.2         1.0   1.0       0.0         inf   
+4                 1.0      0.1         1.0   1.0       0.0         inf   
+
+   zhangs_metric  
+0            0.0  
+1            0.0  
+2            0.0  
+3            0.0  
+4            0.0  
+
+Résultat 15 pour Installs>=100000000, Ratings>=4.5:
+           antecedents         consequents  antecedent support  \
+0            (Action1)  (NoSecondaryGenre)                 0.1   
+1            (Arcade1)  (NoSecondaryGenre)                 0.1   
+2            (Casual1)  (NoSecondaryGenre)                 0.2   
+3     (Communication1)  (NoSecondaryGenre)                 0.2   
+4  (Health & Fitness1)  (NoSecondaryGenre)                 0.1   
+
+   consequent support  support  confidence  lift  leverage  conviction  \
+0                 1.0      0.1         1.0   1.0       0.0         inf   
+1                 1.0      0.1         1.0   1.0       0.0         inf   
+2                 1.0      0.2         1.0   1.0       0.0         inf   
+3                 1.0      0.2         1.0   1.0       0.0         inf   
+4                 1.0      0.1         1.0   1.0       0.0         inf   
+
+   zhangs_metric  
+0            0.0  
+1            0.0  
+2            0.0  
+3            0.0  
+4            0.0  
+

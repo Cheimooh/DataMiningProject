@@ -1,0 +1,120 @@
+Résultat 1 pour Installs>=1000000, Reviews>=30000, Ratings>=0:
+     support                     itemsets
+28  0.930851           (NoSecondaryGenre)
+2   0.091185                    (Action1)
+48  0.087386  (Action1, NoSecondaryGenre)
+42  0.081307                     (Tools1)
+83  0.081307   (NoSecondaryGenre, Tools1)
+
+Résultat 2 pour Installs>=1000000, Reviews>=30000, Ratings>=4:
+     support                     itemsets
+28  0.930851           (NoSecondaryGenre)
+2   0.091185                    (Action1)
+48  0.087386  (Action1, NoSecondaryGenre)
+42  0.081307                     (Tools1)
+83  0.081307   (NoSecondaryGenre, Tools1)
+
+Résultat 3 pour Installs>=1000000, Reviews>=30000, Ratings>=4.5:
+     support                     itemsets
+28  0.930851           (NoSecondaryGenre)
+2   0.091185                    (Action1)
+48  0.087386  (Action1, NoSecondaryGenre)
+42  0.081307                     (Tools1)
+83  0.081307   (NoSecondaryGenre, Tools1)
+
+Résultat 4 pour Installs>=5000000, Reviews>=30000, Ratings>=0:
+     support                     itemsets
+23  0.936490           (NoSecondaryGenre)
+2   0.101617                    (Action1)
+44  0.098152  (Action1, NoSecondaryGenre)
+76  0.087760   (NoSecondaryGenre, Tools1)
+37  0.087760                     (Tools1)
+
+Résultat 5 pour Installs>=5000000, Reviews>=30000, Ratings>=4:
+     support                     itemsets
+23  0.936490           (NoSecondaryGenre)
+2   0.101617                    (Action1)
+44  0.098152  (Action1, NoSecondaryGenre)
+76  0.087760   (NoSecondaryGenre, Tools1)
+37  0.087760                     (Tools1)
+
+Résultat 6 pour Installs>=5000000, Reviews>=30000, Ratings>=4.5:
+     support                     itemsets
+23  0.936490           (NoSecondaryGenre)
+2   0.101617                    (Action1)
+44  0.098152  (Action1, NoSecondaryGenre)
+76  0.087760   (NoSecondaryGenre, Tools1)
+37  0.087760                     (Tools1)
+
+Résultat 7 pour Installs>=10000000, Reviews>=30000, Ratings>=0:
+     support                     itemsets
+12  0.967890           (NoSecondaryGenre)
+2   0.110092                    (Action1)
+26  0.110092                     (Tools1)
+48  0.110092   (NoSecondaryGenre, Tools1)
+29  0.110092  (Action1, NoSecondaryGenre)
+
+Résultat 8 pour Installs>=10000000, Reviews>=30000, Ratings>=4:
+     support                     itemsets
+12  0.967890           (NoSecondaryGenre)
+2   0.110092                    (Action1)
+26  0.110092                     (Tools1)
+48  0.110092   (NoSecondaryGenre, Tools1)
+29  0.110092  (Action1, NoSecondaryGenre)
+
+Résultat 9 pour Installs>=10000000, Reviews>=30000, Ratings>=4.5:
+     support                     itemsets
+12  0.967890           (NoSecondaryGenre)
+2   0.110092                    (Action1)
+26  0.110092                     (Tools1)
+48  0.110092   (NoSecondaryGenre, Tools1)
+29  0.110092  (Action1, NoSecondaryGenre)
+
+Résultat 10 pour Installs>=50000000, Reviews>=30000, Ratings>=0:
+     support                     itemsets
+14  0.981132           (NoSecondaryGenre)
+4   0.160377                    (Arcade1)
+32  0.160377  (Arcade1, NoSecondaryGenre)
+2   0.113208                    (Action1)
+30  0.113208  (Action1, NoSecondaryGenre)
+
+Résultat 11 pour Installs>=50000000, Reviews>=30000, Ratings>=4:
+     support                     itemsets
+14  0.981132           (NoSecondaryGenre)
+4   0.160377                    (Arcade1)
+32  0.160377  (Arcade1, NoSecondaryGenre)
+2   0.113208                    (Action1)
+30  0.113208  (Action1, NoSecondaryGenre)
+
+Résultat 12 pour Installs>=50000000, Reviews>=30000, Ratings>=4.5:
+     support                     itemsets
+14  0.981132           (NoSecondaryGenre)
+4   0.160377                    (Arcade1)
+32  0.160377  (Arcade1, NoSecondaryGenre)
+2   0.113208                    (Action1)
+30  0.113208  (Action1, NoSecondaryGenre)
+
+Résultat 13 pour Installs>=100000000, Reviews>=30000, Ratings>=0:
+    support                            itemsets
+6       1.0                  (NoSecondaryGenre)
+2       0.2                           (Casual1)
+3       0.2                    (Communication1)
+12      0.2  (Communication1, NoSecondaryGenre)
+11      0.2         (NoSecondaryGenre, Casual1)
+
+Résultat 14 pour Installs>=100000000, Reviews>=30000, Ratings>=4:
+    support                            itemsets
+6       1.0                  (NoSecondaryGenre)
+2       0.2                           (Casual1)
+3       0.2                    (Communication1)
+12      0.2  (Communication1, NoSecondaryGenre)
+11      0.2         (NoSecondaryGenre, Casual1)
+
+Résultat 15 pour Installs>=100000000, Reviews>=30000, Ratings>=4.5:
+    support                            itemsets
+6       1.0                  (NoSecondaryGenre)
+2       0.2                           (Casual1)
+3       0.2                    (Communication1)
+12      0.2  (Communication1, NoSecondaryGenre)
+11      0.2         (NoSecondaryGenre, Casual1)
+
