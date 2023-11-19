@@ -1,0 +1,330 @@
+Résultat 1 pour Installs>=1000000, Ratings>=0:
+             antecedents            consequents  antecedent support  \
+0  (Action & Adventure2)   (Action & Adventure)            0.024316   
+1   (Action & Adventure)  (Action & Adventure2)            0.024316   
+2              (Action1)     (NoSecondaryGenre)            0.091185   
+3           (Adventure1)     (NoSecondaryGenre)            0.011398   
+4              (Arcade1)     (NoSecondaryGenre)            0.054711   
+
+   consequent support   support  confidence       lift  leverage  conviction  \
+0            0.024316  0.024316    1.000000  41.125000  0.023725         inf   
+1            0.024316  0.024316    1.000000  41.125000  0.023725         inf   
+2            0.930851  0.087386    0.958333   1.029524  0.002506    1.659574   
+3            0.930851  0.009119    0.800000   0.859429 -0.001491    0.345745   
+4            0.930851  0.052432    0.958333   1.029524  0.001504    1.659574   
+
+   zhangs_metric  
+0       1.000000  
+1       1.000000  
+2       0.031554  
+3      -0.141962  
+4       0.030337  
+
+Résultat 2 pour Installs>=1000000, Ratings>=4:
+             antecedents            consequents  antecedent support  \
+0  (Action & Adventure2)   (Action & Adventure)            0.024316   
+1   (Action & Adventure)  (Action & Adventure2)            0.024316   
+2              (Action1)     (NoSecondaryGenre)            0.091185   
+3           (Adventure1)     (NoSecondaryGenre)            0.011398   
+4              (Arcade1)     (NoSecondaryGenre)            0.054711   
+
+   consequent support   support  confidence       lift  leverage  conviction  \
+0            0.024316  0.024316    1.000000  41.125000  0.023725         inf   
+1            0.024316  0.024316    1.000000  41.125000  0.023725         inf   
+2            0.930851  0.087386    0.958333   1.029524  0.002506    1.659574   
+3            0.930851  0.009119    0.800000   0.859429 -0.001491    0.345745   
+4            0.930851  0.052432    0.958333   1.029524  0.001504    1.659574   
+
+   zhangs_metric  
+0       1.000000  
+1       1.000000  
+2       0.031554  
+3      -0.141962  
+4       0.030337  
+
+Résultat 3 pour Installs>=1000000, Ratings>=4.5:
+             antecedents            consequents  antecedent support  \
+0  (Action & Adventure2)   (Action & Adventure)            0.024316   
+1   (Action & Adventure)  (Action & Adventure2)            0.024316   
+2              (Action1)     (NoSecondaryGenre)            0.091185   
+3           (Adventure1)     (NoSecondaryGenre)            0.011398   
+4              (Arcade1)     (NoSecondaryGenre)            0.054711   
+
+   consequent support   support  confidence       lift  leverage  conviction  \
+0            0.024316  0.024316    1.000000  41.125000  0.023725         inf   
+1            0.024316  0.024316    1.000000  41.125000  0.023725         inf   
+2            0.930851  0.087386    0.958333   1.029524  0.002506    1.659574   
+3            0.930851  0.009119    0.800000   0.859429 -0.001491    0.345745   
+4            0.930851  0.052432    0.958333   1.029524  0.001504    1.659574   
+
+   zhangs_metric  
+0       1.000000  
+1       1.000000  
+2       0.031554  
+3      -0.141962  
+4       0.030337  
+
+Résultat 4 pour Installs>=5000000, Ratings>=0:
+             antecedents            consequents  antecedent support  \
+0  (Action & Adventure2)   (Action & Adventure)            0.027714   
+1   (Action & Adventure)  (Action & Adventure2)            0.027714   
+2              (Action1)     (NoSecondaryGenre)            0.101617   
+3           (Adventure1)     (NoSecondaryGenre)            0.013857   
+4              (Arcade1)     (NoSecondaryGenre)            0.070439   
+
+   consequent support   support  confidence       lift  leverage  conviction  \
+0            0.027714  0.027714    1.000000  36.083333  0.026946         inf   
+1            0.027714  0.027714    1.000000  36.083333  0.026946         inf   
+2            0.936490  0.098152    0.965909   1.031415  0.002990    1.862972   
+3            0.936490  0.011547    0.833333   0.889848 -0.001429    0.381062   
+4            0.936490  0.066975    0.950820   1.015302  0.001009    1.291378   
+
+   zhangs_metric  
+0       1.000000  
+1       1.000000  
+2       0.033903  
+3      -0.111527  
+4       0.016213  
+
+Résultat 5 pour Installs>=5000000, Ratings>=4:
+             antecedents            consequents  antecedent support  \
+0  (Action & Adventure2)   (Action & Adventure)            0.027714   
+1   (Action & Adventure)  (Action & Adventure2)            0.027714   
+2              (Action1)     (NoSecondaryGenre)            0.101617   
+3           (Adventure1)     (NoSecondaryGenre)            0.013857   
+4              (Arcade1)     (NoSecondaryGenre)            0.070439   
+
+   consequent support   support  confidence       lift  leverage  conviction  \
+0            0.027714  0.027714    1.000000  36.083333  0.026946         inf   
+1            0.027714  0.027714    1.000000  36.083333  0.026946         inf   
+2            0.936490  0.098152    0.965909   1.031415  0.002990    1.862972   
+3            0.936490  0.011547    0.833333   0.889848 -0.001429    0.381062   
+4            0.936490  0.066975    0.950820   1.015302  0.001009    1.291378   
+
+   zhangs_metric  
+0       1.000000  
+1       1.000000  
+2       0.033903  
+3      -0.111527  
+4       0.016213  
+
+Résultat 6 pour Installs>=5000000, Ratings>=4.5:
+             antecedents            consequents  antecedent support  \
+0  (Action & Adventure2)   (Action & Adventure)            0.027714   
+1   (Action & Adventure)  (Action & Adventure2)            0.027714   
+2              (Action1)     (NoSecondaryGenre)            0.101617   
+3           (Adventure1)     (NoSecondaryGenre)            0.013857   
+4              (Arcade1)     (NoSecondaryGenre)            0.070439   
+
+   consequent support   support  confidence       lift  leverage  conviction  \
+0            0.027714  0.027714    1.000000  36.083333  0.026946         inf   
+1            0.027714  0.027714    1.000000  36.083333  0.026946         inf   
+2            0.936490  0.098152    0.965909   1.031415  0.002990    1.862972   
+3            0.936490  0.011547    0.833333   0.889848 -0.001429    0.381062   
+4            0.936490  0.066975    0.950820   1.015302  0.001009    1.291378   
+
+   zhangs_metric  
+0       1.000000  
+1       1.000000  
+2       0.033903  
+3      -0.111527  
+4       0.016213  
+
+Résultat 7 pour Installs>=10000000, Ratings>=0:
+             antecedents            consequents  antecedent support  \
+0  (Action & Adventure2)   (Action & Adventure)            0.018349   
+1   (Action & Adventure)  (Action & Adventure2)            0.018349   
+2              (Action1)     (NoSecondaryGenre)            0.110092   
+3              (Arcade1)     (NoSecondaryGenre)            0.100917   
+4               (Board1)     (NoSecondaryGenre)            0.009174   
+
+   consequent support   support  confidence       lift  leverage  conviction  \
+0            0.018349  0.018349         1.0  54.500000  0.018012         inf   
+1            0.018349  0.018349         1.0  54.500000  0.018012         inf   
+2            0.967890  0.110092         1.0   1.033175  0.003535         inf   
+3            0.967890  0.100917         1.0   1.033175  0.003240         inf   
+4            0.967890  0.009174         1.0   1.033175  0.000295         inf   
+
+   zhangs_metric  
+0       1.000000  
+1       1.000000  
+2       0.036082  
+3       0.035714  
+4       0.032407  
+
+Résultat 8 pour Installs>=10000000, Ratings>=4:
+             antecedents            consequents  antecedent support  \
+0  (Action & Adventure2)   (Action & Adventure)            0.018349   
+1   (Action & Adventure)  (Action & Adventure2)            0.018349   
+2              (Action1)     (NoSecondaryGenre)            0.110092   
+3              (Arcade1)     (NoSecondaryGenre)            0.100917   
+4               (Board1)     (NoSecondaryGenre)            0.009174   
+
+   consequent support   support  confidence       lift  leverage  conviction  \
+0            0.018349  0.018349         1.0  54.500000  0.018012         inf   
+1            0.018349  0.018349         1.0  54.500000  0.018012         inf   
+2            0.967890  0.110092         1.0   1.033175  0.003535         inf   
+3            0.967890  0.100917         1.0   1.033175  0.003240         inf   
+4            0.967890  0.009174         1.0   1.033175  0.000295         inf   
+
+   zhangs_metric  
+0       1.000000  
+1       1.000000  
+2       0.036082  
+3       0.035714  
+4       0.032407  
+
+Résultat 9 pour Installs>=10000000, Ratings>=4.5:
+             antecedents            consequents  antecedent support  \
+0  (Action & Adventure2)   (Action & Adventure)            0.018349   
+1   (Action & Adventure)  (Action & Adventure2)            0.018349   
+2              (Action1)     (NoSecondaryGenre)            0.110092   
+3              (Arcade1)     (NoSecondaryGenre)            0.100917   
+4               (Board1)     (NoSecondaryGenre)            0.009174   
+
+   consequent support   support  confidence       lift  leverage  conviction  \
+0            0.018349  0.018349         1.0  54.500000  0.018012         inf   
+1            0.018349  0.018349         1.0  54.500000  0.018012         inf   
+2            0.967890  0.110092         1.0   1.033175  0.003535         inf   
+3            0.967890  0.100917         1.0   1.033175  0.003240         inf   
+4            0.967890  0.009174         1.0   1.033175  0.000295         inf   
+
+   zhangs_metric  
+0       1.000000  
+1       1.000000  
+2       0.036082  
+3       0.035714  
+4       0.032407  
+
+Résultat 10 pour Installs>=50000000, Ratings>=0:
+             antecedents            consequents  antecedent support  \
+0  (Action & Adventure2)   (Action & Adventure)            0.009434   
+1   (Action & Adventure)  (Action & Adventure2)            0.009434   
+2           (Adventure1)   (Action & Adventure)            0.018868   
+3   (Action & Adventure)           (Adventure1)            0.009434   
+4  (Action & Adventure2)           (Adventure1)            0.009434   
+
+   consequent support   support  confidence   lift  leverage  conviction  \
+0            0.009434  0.009434         1.0  106.0  0.009345         inf   
+1            0.009434  0.009434         1.0  106.0  0.009345         inf   
+2            0.009434  0.009434         0.5   53.0  0.009256    1.981132   
+3            0.018868  0.009434         1.0   53.0  0.009256         inf   
+4            0.018868  0.009434         1.0   53.0  0.009256         inf   
+
+   zhangs_metric  
+0       1.000000  
+1       1.000000  
+2       1.000000  
+3       0.990476  
+4       0.990476  
+
+Résultat 11 pour Installs>=50000000, Ratings>=4:
+             antecedents            consequents  antecedent support  \
+0  (Action & Adventure2)   (Action & Adventure)            0.009434   
+1   (Action & Adventure)  (Action & Adventure2)            0.009434   
+2           (Adventure1)   (Action & Adventure)            0.018868   
+3   (Action & Adventure)           (Adventure1)            0.009434   
+4  (Action & Adventure2)           (Adventure1)            0.009434   
+
+   consequent support   support  confidence   lift  leverage  conviction  \
+0            0.009434  0.009434         1.0  106.0  0.009345         inf   
+1            0.009434  0.009434         1.0  106.0  0.009345         inf   
+2            0.009434  0.009434         0.5   53.0  0.009256    1.981132   
+3            0.018868  0.009434         1.0   53.0  0.009256         inf   
+4            0.018868  0.009434         1.0   53.0  0.009256         inf   
+
+   zhangs_metric  
+0       1.000000  
+1       1.000000  
+2       1.000000  
+3       0.990476  
+4       0.990476  
+
+Résultat 12 pour Installs>=50000000, Ratings>=4.5:
+             antecedents            consequents  antecedent support  \
+0  (Action & Adventure2)   (Action & Adventure)            0.009434   
+1   (Action & Adventure)  (Action & Adventure2)            0.009434   
+2           (Adventure1)   (Action & Adventure)            0.018868   
+3   (Action & Adventure)           (Adventure1)            0.009434   
+4  (Action & Adventure2)           (Adventure1)            0.009434   
+
+   consequent support   support  confidence   lift  leverage  conviction  \
+0            0.009434  0.009434         1.0  106.0  0.009345         inf   
+1            0.009434  0.009434         1.0  106.0  0.009345         inf   
+2            0.009434  0.009434         0.5   53.0  0.009256    1.981132   
+3            0.018868  0.009434         1.0   53.0  0.009256         inf   
+4            0.018868  0.009434         1.0   53.0  0.009256         inf   
+
+   zhangs_metric  
+0       1.000000  
+1       1.000000  
+2       1.000000  
+3       0.990476  
+4       0.990476  
+
+Résultat 13 pour Installs>=100000000, Ratings>=0:
+           antecedents         consequents  antecedent support  \
+0            (Action1)  (NoSecondaryGenre)                 0.1   
+1            (Arcade1)  (NoSecondaryGenre)                 0.1   
+2            (Casual1)  (NoSecondaryGenre)                 0.2   
+3     (Communication1)  (NoSecondaryGenre)                 0.2   
+4  (Health & Fitness1)  (NoSecondaryGenre)                 0.1   
+
+   consequent support  support  confidence  lift  leverage  conviction  \
+0                 1.0      0.1         1.0   1.0       0.0         inf   
+1                 1.0      0.1         1.0   1.0       0.0         inf   
+2                 1.0      0.2         1.0   1.0       0.0         inf   
+3                 1.0      0.2         1.0   1.0       0.0         inf   
+4                 1.0      0.1         1.0   1.0       0.0         inf   
+
+   zhangs_metric  
+0            0.0  
+1            0.0  
+2            0.0  
+3            0.0  
+4            0.0  
+
+Résultat 14 pour Installs>=100000000, Ratings>=4:
+           antecedents         consequents  antecedent support  \
+0            (Action1)  (NoSecondaryGenre)                 0.1   
+1            (Arcade1)  (NoSecondaryGenre)                 0.1   
+2            (Casual1)  (NoSecondaryGenre)                 0.2   
+3     (Communication1)  (NoSecondaryGenre)                 0.2   
+4  (Health & Fitness1)  (NoSecondaryGenre)                 0.1   
+
+   consequent support  support  confidence  lift  leverage  conviction  \
+0                 1.0      0.1         1.0   1.0       0.0         inf   
+1                 1.0      0.1         1.0   1.0       0.0         inf   
+2                 1.0      0.2         1.0   1.0       0.0         inf   
+3                 1.0      0.2         1.0   1.0       0.0         inf   
+4                 1.0      0.1         1.0   1.0       0.0         inf   
+
+   zhangs_metric  
+0            0.0  
+1            0.0  
+2            0.0  
+3            0.0  
+4            0.0  
+
+Résultat 15 pour Installs>=100000000, Ratings>=4.5:
+           antecedents         consequents  antecedent support  \
+0            (Action1)  (NoSecondaryGenre)                 0.1   
+1            (Arcade1)  (NoSecondaryGenre)                 0.1   
+2            (Casual1)  (NoSecondaryGenre)                 0.2   
+3     (Communication1)  (NoSecondaryGenre)                 0.2   
+4  (Health & Fitness1)  (NoSecondaryGenre)                 0.1   
+
+   consequent support  support  confidence  lift  leverage  conviction  \
+0                 1.0      0.1         1.0   1.0       0.0         inf   
+1                 1.0      0.1         1.0   1.0       0.0         inf   
+2                 1.0      0.2         1.0   1.0       0.0         inf   
+3                 1.0      0.2         1.0   1.0       0.0         inf   
+4                 1.0      0.1         1.0   1.0       0.0         inf   
+
+   zhangs_metric  
+0            0.0  
+1            0.0  
+2            0.0  
+3            0.0  
+4            0.0  
+

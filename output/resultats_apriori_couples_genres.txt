@@ -1,0 +1,120 @@
+Résultat 1 pour Installs>=1000000, Ratings>=0:
+     support                          itemsets  len
+48  0.087386       (Action1, NoSecondaryGenre)    2
+83  0.081307        (Tools1, NoSecondaryGenre)    2
+73  0.055471  (NoSecondaryGenre, Photography1)    2
+50  0.052432       (Arcade1, NoSecondaryGenre)    2
+81  0.044833       (NoSecondaryGenre, Sports1)    2
+
+Résultat 2 pour Installs>=1000000, Ratings>=4:
+     support                          itemsets  len
+48  0.087386       (Action1, NoSecondaryGenre)    2
+83  0.081307        (Tools1, NoSecondaryGenre)    2
+73  0.055471  (NoSecondaryGenre, Photography1)    2
+50  0.052432       (Arcade1, NoSecondaryGenre)    2
+81  0.044833       (NoSecondaryGenre, Sports1)    2
+
+Résultat 3 pour Installs>=1000000, Ratings>=4.5:
+     support                          itemsets  len
+48  0.087386       (Action1, NoSecondaryGenre)    2
+83  0.081307        (Tools1, NoSecondaryGenre)    2
+73  0.055471  (NoSecondaryGenre, Photography1)    2
+50  0.052432       (Arcade1, NoSecondaryGenre)    2
+81  0.044833       (NoSecondaryGenre, Sports1)    2
+
+Résultat 4 pour Installs>=5000000, Ratings>=0:
+     support                            itemsets  len
+44  0.098152         (Action1, NoSecondaryGenre)    2
+76  0.087760          (Tools1, NoSecondaryGenre)    2
+46  0.066975         (Arcade1, NoSecondaryGenre)    2
+66  0.061201    (NoSecondaryGenre, Photography1)    2
+58  0.040416  (Entertainment1, NoSecondaryGenre)    2
+
+Résultat 5 pour Installs>=5000000, Ratings>=4:
+     support                            itemsets  len
+44  0.098152         (Action1, NoSecondaryGenre)    2
+76  0.087760          (Tools1, NoSecondaryGenre)    2
+46  0.066975         (Arcade1, NoSecondaryGenre)    2
+66  0.061201    (NoSecondaryGenre, Photography1)    2
+58  0.040416  (Entertainment1, NoSecondaryGenre)    2
+
+Résultat 6 pour Installs>=5000000, Ratings>=4.5:
+     support                            itemsets  len
+44  0.098152         (Action1, NoSecondaryGenre)    2
+76  0.087760          (Tools1, NoSecondaryGenre)    2
+46  0.066975         (Arcade1, NoSecondaryGenre)    2
+66  0.061201    (NoSecondaryGenre, Photography1)    2
+58  0.040416  (Entertainment1, NoSecondaryGenre)    2
+
+Résultat 7 pour Installs>=10000000, Ratings>=0:
+     support                            itemsets  len
+48  0.110092          (Tools1, NoSecondaryGenre)    2
+29  0.110092         (Action1, NoSecondaryGenre)    2
+30  0.100917         (Arcade1, NoSecondaryGenre)    2
+41  0.068807         (NoSecondaryGenre, Racing1)    2
+35  0.064220  (Entertainment1, NoSecondaryGenre)    2
+
+Résultat 8 pour Installs>=10000000, Ratings>=4:
+     support                            itemsets  len
+48  0.110092          (Tools1, NoSecondaryGenre)    2
+29  0.110092         (Action1, NoSecondaryGenre)    2
+30  0.100917         (Arcade1, NoSecondaryGenre)    2
+41  0.068807         (NoSecondaryGenre, Racing1)    2
+35  0.064220  (Entertainment1, NoSecondaryGenre)    2
+
+Résultat 9 pour Installs>=10000000, Ratings>=4.5:
+     support                            itemsets  len
+48  0.110092          (Tools1, NoSecondaryGenre)    2
+29  0.110092         (Action1, NoSecondaryGenre)    2
+30  0.100917         (Arcade1, NoSecondaryGenre)    2
+41  0.068807         (NoSecondaryGenre, Racing1)    2
+35  0.064220  (Entertainment1, NoSecondaryGenre)    2
+
+Résultat 10 pour Installs>=50000000, Ratings>=0:
+     support                            itemsets  len
+32  0.160377         (Arcade1, NoSecondaryGenre)    2
+30  0.113208         (Action1, NoSecondaryGenre)    2
+52  0.094340          (Tools1, NoSecondaryGenre)    2
+37  0.075472         (NoSecondaryGenre, Casual1)    2
+39  0.066038  (Entertainment1, NoSecondaryGenre)    2
+
+Résultat 11 pour Installs>=50000000, Ratings>=4:
+     support                            itemsets  len
+32  0.160377         (Arcade1, NoSecondaryGenre)    2
+30  0.113208         (Action1, NoSecondaryGenre)    2
+52  0.094340          (Tools1, NoSecondaryGenre)    2
+37  0.075472         (NoSecondaryGenre, Casual1)    2
+39  0.066038  (Entertainment1, NoSecondaryGenre)    2
+
+Résultat 12 pour Installs>=50000000, Ratings>=4.5:
+     support                            itemsets  len
+32  0.160377         (Arcade1, NoSecondaryGenre)    2
+30  0.113208         (Action1, NoSecondaryGenre)    2
+52  0.094340          (Tools1, NoSecondaryGenre)    2
+37  0.075472         (NoSecondaryGenre, Casual1)    2
+39  0.066038  (Entertainment1, NoSecondaryGenre)    2
+
+Résultat 13 pour Installs>=100000000, Ratings>=0:
+    support                               itemsets  len
+11      0.2            (NoSecondaryGenre, Casual1)    2
+12      0.2     (NoSecondaryGenre, Communication1)    2
+9       0.1            (Action1, NoSecondaryGenre)    2
+10      0.1            (Arcade1, NoSecondaryGenre)    2
+13      0.1  (Health & Fitness1, NoSecondaryGenre)    2
+
+Résultat 14 pour Installs>=100000000, Ratings>=4:
+    support                               itemsets  len
+11      0.2            (NoSecondaryGenre, Casual1)    2
+12      0.2     (NoSecondaryGenre, Communication1)    2
+9       0.1            (Action1, NoSecondaryGenre)    2
+10      0.1            (Arcade1, NoSecondaryGenre)    2
+13      0.1  (Health & Fitness1, NoSecondaryGenre)    2
+
+Résultat 15 pour Installs>=100000000, Ratings>=4.5:
+    support                               itemsets  len
+11      0.2            (NoSecondaryGenre, Casual1)    2
+12      0.2     (NoSecondaryGenre, Communication1)    2
+9       0.1            (Action1, NoSecondaryGenre)    2
+10      0.1            (Arcade1, NoSecondaryGenre)    2
+13      0.1  (Health & Fitness1, NoSecondaryGenre)    2
+
